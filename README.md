@@ -249,7 +249,7 @@ From here it's get a bit complicated, cause here we are gonna make a *level card
 
 __Step 1__ : import pillow
 
-```
+```Python
 
 from PIL import Image, ImageDraw, ImageFont
 
@@ -257,7 +257,7 @@ from PIL import Image, ImageDraw, ImageFont
 __Step 2__ : create a class
 
 
-```
+```Python
 
 class LevelCog(commands.Cog):
     def __init__(self, bot):
@@ -268,7 +268,7 @@ class LevelCog(commands.Cog):
 Because we are using cogs, we won't be defining the bot instance again. 
 __Step 3__ : creating a function that converts numbers into readable format. Example : 5000 will be converted to 5K
 
-```
+```Python
     def human_format(self, num):
         num = float('{:.3g}'.format(num))
         magnitude = 0
@@ -281,7 +281,7 @@ __Step 3__ : creating a function that converts numbers into readable format. Exa
 
 __Step 4__ : Now the real fun begins with this step, we start writing the code for the level card
 
-```
+```Python
     @commands.command(name = "level", aliases = ["rank", "Level", "LEVEL", "Rank", "RANK"])
     async def level(self, ctx, member: discord.Member = None):
         guildid = ctx.message.channel.guild.id
@@ -466,7 +466,8 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
 YEAH YOU NEED TO LEARN PILLOW FOR THIS :)
  
 __Step 5__ :  Add the cog to the main code
-```
+
+```Python
 
  def setup(bot):
     bot.add_cog(LevelCog(bot))
