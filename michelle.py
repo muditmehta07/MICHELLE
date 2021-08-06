@@ -25,16 +25,11 @@ def get_the_prefix(client, message):
 
     return prefix
 
-initial_extensions = ['cogs.translate','cogs.dev', 'cogs.setup', 'cogs.level', 'cogs.fun', 'cogs.help', 'cogs.about', 'cogs.api', 'cogs.auth', 'cogs.general', 'cogs.item', 'cogs.reaction', 'cogs.shop', 'cogs.spells', 'cogs.theme']
 
 intents = discord.Intents().all()
 client = discord.Client(intents=intents)
 bot = commands.Bot(command_prefix= get_the_prefix , intents=intents)
 bot.remove_command('help')
-
-if __name__ == '__main__':
-    for extension in initial_extensions:
-        bot.load_extension(extension)
 
 @bot.event
 async def on_ready():
@@ -43,21 +38,6 @@ async def on_ready():
 
 @bot.event
 async def on_member_join(member):
-    try:
-        id = member.guild.id
-        with open("./local/welcome.json", 'r') as f:
-            welcome = json.load(f)
-        channelid = welcome[f'{id}']['channel']
-        msg = welcome[f'{id}']['message']
-        guild = bot.get_guild(id)
-        channel = guild.get_channel(channelid)
-        embed = discord.Embed(description = f'Hey {member.mention}! {msg}', 
-        timestamp=datetime.datetime.utcnow())
-        embed.set_author(name = member, icon_url= member.avatar_url)
-        await channel.send(embed=embed)
-    except Exception as e:
-        print(e)
-
     guildid = member.guild.id
     guildid = './guild data/'+ str(guildid) +'.json'
     if member.bot == False:
@@ -88,32 +68,6 @@ async def on_member_join(member):
 @bot.event
 async def on_message(message):
     if message.author.bot == False:
-        if "michelle" in message.content or "Michelle" in message.content or "MICHELLE" in message.content:
-            id = message.author.id
-            guildid = message.channel.guild.id
-            guildid = './guild data/'+ str(guildid) +'.json'
-            with open(guildid, 'r') as f:
-                users = json.load(f)
-
-            color = users[str(id)]['color']
-
-            with open("./local/prefix.json", "r") as f:
-                L = json.load(f)
-
-            if str(message.guild.id) in L:
-                get_prefix = L[str(message.guild.id)]["prefix"]
-            elif str(message.guild.id) not in L:
-                get_prefix = "="
-
-            embed = discord.Embed(
-                description = f"Use `{get_prefix}help` for the help command",
-                color = color,
-                timestamp = datetime.datetime.utcnow()
-            )
-
-            embed.set_author(name=message.author, icon_url=message.author.avatar_url)
-            await message.channel.send(embed=embed)
-
         if message.guild:
             guildid = message.channel.guild.id
             guildid = './guild data/'+ str(guildid) +'.json'
@@ -208,11 +162,3 @@ async def level_up(users, user, message):
             level_embed = discord.Embed(description = up_message, color = color, timestamp=datetime.datetime.utcnow())
             level_embed.set_author(name = user, icon_url= user.avatar_url)
             await message.channel.send(embed=level_embed)
-
-'''
-
-Run
-
-'''
-
-bot.run("")
