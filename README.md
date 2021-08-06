@@ -242,26 +242,33 @@ bot.run("token")
 
 *Note* : replace `token` with your bot token
 
-#level.py
+# level.py
 
 
 From here it's get a bit complicated, cause here we are gonna make a *level card* using the Python module `PIL` or `pillow`. We create this file in a folder named `cogs` in the same directory as `main.py`
 
-```Python
-# Step 1 : import pillow
+__Step 1__ : import pillow
+
+```
 
 from PIL import Image, ImageDraw, ImageFont
 
-# Step 2 : create a class
+```
+__Step 2__ : create a class
+
+
+```
 
 class LevelCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        
-# Because we are using cogs, we won't be defining the bot instance again. 
 
-# Step 3 : creating a function that converts numbers into readable format. Example : 5000 will be converted to 5K
+```        
 
+Because we are using cogs, we won't be defining the bot instance again. 
+__Step 3__ : creating a function that converts numbers into readable format. Example : 5000 will be converted to 5K
+
+```
     def human_format(self, num):
         num = float('{:.3g}'.format(num))
         magnitude = 0
@@ -269,9 +276,12 @@ class LevelCog(commands.Cog):
             magnitude += 1
             num /= 1000.0
         return '{}{}'.format('{:f}'.format(num).rstrip('0').rstrip('.'), ['', 'K', 'M', 'B', 'T'][magnitude])
-        
-# Step 4 : Now the real fun begins with this step, we start writing the code for the level card
+   
+```
 
+__Step 4__ : Now the real fun begins with this step, we start writing the code for the level card
+
+```
     @commands.command(name = "level", aliases = ["rank", "Level", "LEVEL", "Rank", "RANK"])
     async def level(self, ctx, member: discord.Member = None):
         guildid = ctx.message.channel.guild.id
@@ -451,8 +461,14 @@ class LevelCog(commands.Cog):
             level_embed = discord.Embed(description = m, color = color, timestamp = datetime.datetime.utcnow())
             level_embed.set_author(name = ctx.author, icon_url = ctx.author.avatar_url)
             await ctx.send(embed=level_embed)
+```
             
- # YEAH YOU NEED TO LEARN PILLOW FOR THIS :)
+YEAH YOU NEED TO LEARN PILLOW FOR THIS :)
  
+__Step 5__ :  Add the cog to the main code
+```
+
  def setup(bot):
-    bot.add_cog(LevelCog(bot)) # this just adds this cog to the main code
+    bot.add_cog(LevelCog(bot))
+
+```
