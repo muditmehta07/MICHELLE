@@ -63,7 +63,7 @@ __Step 4__ : Adding cog files (cog is basically a way of dividing code ito multi
 
 ```Python
 
-initial_extensions = ['cogs.setup', 'cogs.level', 'cogs.fun', 'cogs.help', 'cogs.about', 'cogs.general', 'cogs.item', 'cogs.shop', 'cogs.spells']
+initial_extensions = ['cogs.setup', 'cogs.level', 'cogs.fun', 'cogs.help', 'cogs.about', 'cogs.general']
 
 if __name__ == '__main__':
     for extension in initial_extensions:
