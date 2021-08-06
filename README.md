@@ -306,6 +306,8 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             level = LevelCog.human_format(self, level)
 ```
 
+Adding a background according to their theme colors - 
+
 ```Python
           
             if theme == 9807270: #gray
@@ -334,6 +336,8 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             theme = hex(theme).split('x')[-1]
 
 ```
+
+Adding the user's logo and status to the level card -
 
 ```Python
             try:
@@ -366,6 +370,8 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
 
 ```
 
+Main code for level card -
+
 ```Python
             big_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 60)
             medium_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 40)
@@ -388,6 +394,8 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             offset_x -= text_size[0] + 5
             draw.text((offset_x, offset_y + 27), "RANK", font=small_font, fill="#fff")
 ```
+
+Main code but in another section so that it's mot comfusing :)
 
 ```Python
             bar_offset_x = 320
@@ -456,6 +464,8 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             os.remove("image.jpg")
             os.remove("logo.jpg")
 ```
+
+Else condition if `member` is mentioned -
 
 ```Python
         else:
