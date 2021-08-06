@@ -2,7 +2,10 @@
 
 [Website](https://top.gg/bot/840180379389263882 "Michelle")
 
-Okay so, this is a tutorial thingy, you can learn how to make a discord bot like Michelle here. I'll be explaining the code here in the easiest way.
+[main.py](https://github.com/MuditMehta07/Michelle#main.py)
+[level.py](https://github.com/MuditMehta07/Michelle#level.py)
+
+
 
 # main.py
 
