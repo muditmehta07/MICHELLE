@@ -8,6 +8,8 @@ Okay so, this is a tutorial thingy, you can learn how to make a discord bot like
 
 __Step 1__ : Import all the necessary modules that we'll be using.
 
+*Modules* : 1 - Discord, 2 - os (for removing new files that the bot creates), 3 - json (for reading and writing data), 4 - datetime (eh, self explanatory)
+
 ```Python
 
 import discord
@@ -26,8 +28,10 @@ from itertools import cycle
 import datetime
 
 ```
-*Modules* : 1 - Discord, 2 - os (for removing new files that the bot creates), 3 - json (for reading and writing data), 4 - datetime (eh, self explanatory)
+
 __Step 2__ : Create the `bot` instance and configure discord
+
+*Note* : We remove the default `help` command to make a new one that looks prettier than the default one, cause default sucks.
 
 ```Python
 
@@ -38,9 +42,10 @@ bot.remove_command('help')
 
 ```
 
-*Note* : We remove the default `help` command to make a new one that looks prettier than the default one, cause default sucks.
-
 __Step 3__ : Get the server's prefix (if any) from `prefix.json`
+
+If the `key` for the server is not found, the default prefix is given as `=`
+*Note* : You can change the default prefix to anything you want, the default prefix is set to `=` in this code.
 
 ```Python
 
@@ -57,9 +62,10 @@ def get_the_prefix(client, message):
     
 ```
 
-*Note* : You can change the default prefix to anything you want, the default prefix is set to `=` in this code.
-
 __Step 4__ : Adding cog files (cog is basically a way of dividing code ito multiple files to make it presentable)
+
+We create a folder called `cogs` where we store all the extensions like `general.py`, `setup.py`, etc.
+Here, `initial_extentions` is a list of cog files saved in a`folder.file` format.
 
 ```Python
 
@@ -73,6 +79,12 @@ if __name__ == '__main__':
 
 __Step 5__ : Event when the bot starts and is online.
 
+`@` is a command decorator
+`bot` is the bot instance and `event` is method
+`on_ready` is a predefined event which means when the bot is ready and is online
+`mstat` is a string in which the number of servers that the bot is in is calculated using `guilds` method which returns a list of servers
+`await` we use in asynchronous enviroments, asynchronous env is defined with `async` keyword (more about `async` : https://docs.python.org/3/library/asyncio-task.html)
+
 ```Python
 
 @bot.event
@@ -82,13 +94,12 @@ async def on_ready():
         
 ```
 
-`@` is a command decorator
-`bot` is the bot instance and `event` is method
-`on_ready` is a predefined event which means when the bot is ready and is online
-`mstat` is a string in which the number of servers that the bot is in is calculated using `guilds` method which returns a list of servers
-`await` we use in asynchronous enviroments
-
 __Step 6__ : Event when a user joins a server
+
+`on_member_join` : event called when a user joins a server, this is predefined.
+
+What the above code basically does is, add this user to the server's `json` file where their data will be stored. This code is not necessary but makes your life easier if you don't want any `dictionary key` or `file not found` errors
+
 
 ```Python
 
@@ -123,14 +134,21 @@ async def on_member_join(member):
                 
 ```
 
-What the above code basically does is, add this user to the server's `json` file where their data will be stored. This code is not necessary but makes your life easier if you don't want any `dictionary key` or `file not found` errors
+__Step 7__ : Event when a user messages
 
-__Step 7__ : Event when a user messages in a server.
+`on_message` : predefined event for when a user messages in a server, this may or may not be called in a DM channel, depends on your code. In this case it won't be called when a user messages in DMs.
+
+`update_data` : a function that we define so that when a user messages, it updates their data that was created when they joined the server, it adds fields like `experience`, `level` and `color` to their server data
+
+`add_experience` : a function that we define which adds 5 experience per text a user sends
+
+`level_up` : a fucntion that we define which sends a message when a user levels up
+
 
 ```Python
 
 @bot.event #again an event
-async def on_message(message): #predefined event when a user messages
+async def on_message(message): 
     if message.author.bot == False: #so that bot doesn't add itself to any of the data files, we do not wanna track the bot's level lol
         if message.guild:
             guildid = message.channel.guild.id
@@ -174,8 +192,6 @@ async def update_data(users, user):
         users[f'{user.id}']['rank'] = 0
         users[f'{user.id}']['level'] = 1
         users[f'{user.id}']['color'] = 0x95a5a6
-        
-        #creating the dictionary's where the data will be stored
         
         
 async def add_experience(users, user, exp):
@@ -226,16 +242,16 @@ async def level_up(users, user, message):
             await message.channel.send(embed=level_embed)
 ```
 
-
 __Step 8__ : Last but not the least, running the bot
+
+*Note* : replace `token` with your bot token
+
 
 ```Python
 
 bot.run("token")
 
 ```
-
-*Note* : replace `token` with your bot token
 
 # level.py
 
@@ -304,11 +320,6 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             await ctx.message.author.avatar_url.save(("logo.jpg"))
 
             level = LevelCog.human_format(self, level)
-```
-
-Adding a background according to their theme colors - 
-
-```Python
           
             if theme == 9807270: #gray
                 full_image = Image.open("./pictures/bg.jpg").convert("RGB").resize((1060, 320))
@@ -335,11 +346,6 @@ Adding a background according to their theme colors -
 
             theme = hex(theme).split('x')[-1]
 
-```
-
-Adding the user's logo and status to the level card -
-
-```Python
             try:
                 logo = Image.open("logo.jpg").convert("RGB").resize((180, 180))
             except:
@@ -368,11 +374,6 @@ Adding the user's logo and status to the level card -
             else:
                 draw.ellipse((180, 165, 230, 215), fill="#d9d9d9")
 
-```
-
-Main code for level card -
-
-```Python
             big_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 60)
             medium_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 40)
             small_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 30)
@@ -393,11 +394,7 @@ Main code for level card -
             text_size = draw.textsize("RANK", font=small_font)
             offset_x -= text_size[0] + 5
             draw.text((offset_x, offset_y + 27), "RANK", font=small_font, fill="#fff")
-```
 
-Main code but in another section so that it's mot comfusing :)
-
-```Python
             bar_offset_x = 320
             bar_offset_y = 160
             bar_offset_x_1 = 950
@@ -463,11 +460,7 @@ Main code but in another section so that it's mot comfusing :)
             await ctx.send(file=file)
             os.remove("image.jpg")
             os.remove("logo.jpg")
-```
 
-Else condition if `member` is mentioned -
-
-```Python
         else:
             id = member.id
             with open(guildid, 'r') as f:
@@ -481,7 +474,6 @@ Else condition if `member` is mentioned -
             await ctx.send(embed=level_embed)
 ```
             
-YEAH YOU NEED TO LEARN PILLOW FOR THIS :)
  
 __Step 5__ :  Add the cog to the main code
 
