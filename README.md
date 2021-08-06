@@ -6,7 +6,7 @@ Okay so, this is a tutorial thingy, you can learn how to make a discord bot like
 
 # main.py
 
-**Step 1 ** : Import all the necessary modules that we'll be using.
+__Step 1__ : Import all the necessary modules that we'll be using.
 
 ```Python
 
@@ -27,8 +27,7 @@ import datetime
 
 ```
 *Modules* : 1 - Discord, 2 - os (for removing new files that the bot creates), 3 - json (for reading and writing data), 4 - datetime (eh, self explanatory)
-
-**Step 2 ** : Create the `bot` instance and configure discord
+__Step 2__ : Create the `bot` instance and configure discord
 
 ```Python
 
@@ -41,7 +40,7 @@ bot.remove_command('help')
 
 *Note* : We remove the default `help` command to make a new one that looks prettier than the default one, cause default sucks.
 
-**Step 3 ** : Get the server's prefix (if any) from `prefix.json`
+__Step 3__ : Get the server's prefix (if any) from `prefix.json`
 
 ```Python
 
@@ -60,7 +59,7 @@ def get_the_prefix(client, message):
 
 *Note* : You can change the default prefix to anything you want, the default prefix is set to `=` in this code.
 
-**Step 4 ** : Adding cog files (cog is basically a way of dividing code ito multiple files to make it presentable)
+__Step 4__ : Adding cog files (cog is basically a way of dividing code ito multiple files to make it presentable)
 
 ```Python
 
@@ -72,7 +71,7 @@ if __name__ == '__main__':
              
 ```
 
-**Step 5 ** : Event when the bot starts and is online.
+__Step 5__ : Event when the bot starts and is online.
 
 ```Python
 
@@ -89,7 +88,7 @@ async def on_ready():
 `mstat` is a string in which the number of servers that the bot is in is calculated using `guilds` method which returns a list of servers
 `await` we use in asynchronous enviroments
 
-**Step 6 ** : Event when a user joins a server
+__Step 6__ : Event when a user joins a server
 
 ```Python
 
@@ -126,7 +125,7 @@ async def on_member_join(member):
 
 What the above code basically does is, add this user to the server's `json` file where their data will be stored. This code is not necessary but makes your life easier if you don't want any `dictionary key` or `file not found` errors
 
-**Step 7 ** : Event when a user messages in a server.
+__Step 7__ : Event when a user messages in a server.
 
 ```Python
 
@@ -233,7 +232,7 @@ async def level_up(users, user, message):
 ```
 
 
-**Step 8 ** : Last but not the least, running the bot
+__Step 8__ : Last but not the least, running the bot
 
 ```Python
 
@@ -244,3 +243,216 @@ bot.run("token")
 *Note* : replace `token` with your bot token
 
 #level.py
+
+
+From here it's get a bit complicated, cause here we are gonna make a *level card* using the Python module `PIL` or `pillow`. We create this file in a folder named `cogs` in the same directory as `main.py`
+
+```Python
+# Step 1 : import pillow
+
+from PIL import Image, ImageDraw, ImageFont
+
+# Step 2 : create a class
+
+class LevelCog(commands.Cog):
+    def __init__(self, bot):
+        self.bot = bot
+        
+# Because we are using cogs, we won't be defining the bot instance again. 
+
+# Step 3 : creating a function that converts numbers into readable format. Example : 5000 will be converted to 5K
+
+    def human_format(self, num):
+        num = float('{:.3g}'.format(num))
+        magnitude = 0
+        while abs(num) >= 1000:
+            magnitude += 1
+            num /= 1000.0
+        return '{}{}'.format('{:f}'.format(num).rstrip('0').rstrip('.'), ['', 'K', 'M', 'B', 'T'][magnitude])
+        
+# Step 4 : Now the real fun begins with this step, we start writing the code for the level card
+
+    @commands.command(name = "level", aliases = ["rank", "Level", "LEVEL", "Rank", "RANK"])
+    async def level(self, ctx, member: discord.Member = None):
+        guildid = ctx.message.channel.guild.id
+        guildid = './guild data/'+ str(guildid) +'.json'
+        if not member:
+            id = ctx.message.author.id
+            with open(guildid, 'r') as f:
+                users = json.load(f)
+
+            R={}
+            for i in users:
+                user = i
+                exp = users[i]['experience']
+                R[user]=exp
+            R = dict(sorted(R.items(), key=lambda item: item[1], reverse=True))
+            L= list(R)
+            theme = users[str(id)]['color']
+            rank = L.index(str(id))+1
+            level = users[str(id)]['level']
+            currentxp = users[str(id)]['experience']
+            xp = currentxp
+            final_xp = (int(level)+1) ** 4
+            user_name = ctx.author.name
+            discriminator = "#"+ctx.author.discriminator
+            await ctx.message.author.avatar_url.save(("logo.jpg"))
+
+            level = LevelCog.human_format(self, level)
+            
+            if theme == 9807270: #gray
+                full_image = Image.open("./pictures/bg.jpg").convert("RGB").resize((1060, 320))
+            elif theme == 15158332 or theme == 10038562: #red
+                full_image = Image.open("./pictures/red.jpg").convert("RGB").resize((1060, 320))
+            elif theme == 3447003 or theme == 2123412: #blue
+                full_image = Image.open("./pictures/blue.jpg").convert("RGB").resize((1060, 320))
+            elif theme == 3066993 or theme == 2067276: #green
+                full_image = Image.open("./pictures/green.jpg").convert("RGB").resize((1060, 320))
+            elif theme == 10181046 or theme == 7419530: #purple
+                full_image = Image.open("./pictures/purple.jpg").convert("RGB").resize((1060, 320))
+            elif theme == 15844367 or theme == 12745742: #gold
+                full_image = Image.open("./pictures/gold.jpg").convert("RGB").resize((1060, 320))
+            elif theme == 1752220 or theme == 1146986: #teal
+                full_image = Image.open("./pictures/teal.png").convert("RGB").resize((1060, 320))
+            elif theme == 15105570 or theme == 11027200: #orange
+                full_image = Image.open("./pictures/orange.jpg").convert("RGB").resize((1060, 320))
+            elif theme == 15277667 or theme == 11342935: #magenta
+                full_image = Image.open("./pictures/magenta.jpg").convert("RGB").resize((1060, 320))
+            else: #gray
+                full_image = Image.open("./pictures/bg.jpg").convert("RGB").resize((1060, 320))
+
+            background = Image.new("RGB", (1000, 240))
+
+            theme = hex(theme).split('x')[-1]
+
+            try:
+                logo = Image.open("logo.jpg").convert("RGB").resize((180, 180))
+            except:
+                logo = Image.open("./pictures/discord.png").convert("RGB").resize((180, 180))
+            bigsize = (logo.size[0] * 3, logo.size[1] * 3)
+            mask = Image.new("L", bigsize, 0)
+
+            draw = ImageDraw.Draw(mask)
+            draw.ellipse((0, 0) + bigsize, 255)
+
+            draw.ellipse((140 * 3, 140 * 3, 189 * 3, 189 * 3), 0)
+
+            mask = mask.resize(logo.size, Image.ANTIALIAS)
+            logo.putalpha(mask)
+
+            background.paste(logo, (40, 30), mask=logo)
+
+            draw = ImageDraw.Draw(background, "RGB")
+
+            if ctx.message.author.status == discord.Status.online:
+                draw.ellipse((180, 165, 230, 215), fill="#47d147")
+            elif ctx.message.author.status == discord.Status.idle:
+                draw.ellipse((180, 165, 230, 215), fill="#ffff99")
+            elif ctx.message.author.status == discord.Status.dnd:
+                draw.ellipse((180, 165, 230, 215), fill="#b34f5a")
+            else:
+                draw.ellipse((180, 165, 230, 215), fill="#d9d9d9")
+
+            big_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 60)
+            medium_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 40)
+            small_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 30)
+
+            text_size = draw.textsize(str(level), font=big_font)
+            offset_x = 1000 - 15 - text_size[0]
+            offset_y = 10
+            draw.text((offset_x, offset_y), str(level), font=big_font, fill=f"#{theme}")
+
+            text_size = draw.textsize("LEVEL", font=small_font)
+            offset_x -= text_size[0] + 5
+            draw.text((offset_x, offset_y + 27), "LEVEL", font=small_font, fill=f"#{theme}")
+
+            text_size = draw.textsize(f"#{rank}", font=big_font)
+            offset_x -= text_size[0] + 15
+            draw.text((offset_x, offset_y), f"#{rank}", font=big_font, fill="#fff")
+
+            text_size = draw.textsize("RANK", font=small_font)
+            offset_x -= text_size[0] + 5
+            draw.text((offset_x, offset_y + 27), "RANK", font=small_font, fill="#fff")
+
+            bar_offset_x = 320
+            bar_offset_y = 160
+            bar_offset_x_1 = 950
+            bar_offset_y_1 = 200
+            circle_size = bar_offset_y_1 - bar_offset_y
+
+            draw.rectangle((bar_offset_x, bar_offset_y, bar_offset_x_1, bar_offset_y_1), fill="#727175")
+
+            draw.ellipse(
+                (bar_offset_x - circle_size // 2, bar_offset_y, bar_offset_x + circle_size // 2, bar_offset_y_1), fill="#727175"
+            )
+
+            draw.ellipse(
+                (bar_offset_x_1 - circle_size // 2, bar_offset_y, bar_offset_x_1 + circle_size // 2, bar_offset_y_1), fill="#727175"
+            )
+
+            bar_length = bar_offset_x_1 - bar_offset_x
+            progress = (xp) * 100 / final_xp
+            progress = 100 - progress
+            progress_bar_length = round(bar_length * progress / 100)
+            bar_offset_x_1 = bar_offset_x + progress_bar_length
+
+            draw.rectangle((bar_offset_x, bar_offset_y, bar_offset_x_1, bar_offset_y_1), fill=f"#{theme}")
+
+            draw.ellipse(
+                (bar_offset_x - circle_size // 2, bar_offset_y, bar_offset_x + circle_size // 2, bar_offset_y_1), fill=f"#{theme}"
+            )
+
+            draw.ellipse(
+                (bar_offset_x_1 - circle_size // 2, bar_offset_y, bar_offset_x_1 + circle_size // 2, bar_offset_y_1), fill=f"#{theme}"
+            )
+
+            text_size = draw.textsize(f"/ {LevelCog.human_format(self, final_xp)} XP", font=small_font)
+
+            offset_x = 950 - text_size[0]
+            offset_y = bar_offset_y - text_size[1] - 14
+
+            draw.text((offset_x, offset_y), f"/ {LevelCog.human_format(self, final_xp)} XP", font=small_font, fill="#727175")
+
+            text_size = draw.textsize(f"{LevelCog.human_format(self, xp)}", font=small_font)
+            offset_x -= text_size[0] + 8
+            draw.text((offset_x, offset_y), f"{LevelCog.human_format(self, xp)}", font=small_font, fill="#fff")
+
+            text_size = draw.textsize(user_name, font=medium_font)
+
+            offset_x = bar_offset_x
+            offset_y = bar_offset_y - text_size[1] - 14
+            draw.text((offset_x, offset_y), user_name, font=medium_font, fill="#fff")
+
+            offset_x += text_size[0] + 5
+            offset_y += 10
+
+            draw.text((offset_x, offset_y), discriminator, font=small_font, fill="#727175")
+
+            img_w, img_h = background.size
+            bg_w, bg_h = full_image.size
+            offset = ((bg_w - img_w) // 2, (bg_h - img_h) // 2)
+
+            full_image.paste(background, offset)
+
+            full_image.save("image.jpg", quality=100)
+            file = discord.File("image.jpg")
+            await ctx.send(file=file)
+            os.remove("image.jpg")
+            os.remove("logo.jpg")
+
+        else:
+            id = member.id
+            with open(guildid, 'r') as f:
+                users = json.load(f)
+            lvl = users[str(id)]['level']
+            exp = users[str(id)]['experience']
+            color = users[str(id)]['color']
+            m = f'{member.mention} is Level {lvl}'
+            level_embed = discord.Embed(description = m, color = color, timestamp = datetime.datetime.utcnow())
+            level_embed.set_author(name = ctx.author, icon_url = ctx.author.avatar_url)
+            await ctx.send(embed=level_embed)
+            
+ # YEAH YOU NEED TO LEARN PILLOW FOR THIS :)
+ 
+ def setup(bot):
+    bot.add_cog(LevelCog(bot)) # this just adds this cog to the main code
