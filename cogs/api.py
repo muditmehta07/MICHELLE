@@ -17,7 +17,7 @@ class ApiCog(commands.Cog):
 
     '''
 
-    Wikipedia
+    Wikipedia Commands
 
     '''
 
