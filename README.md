@@ -1,10 +1,10 @@
 # Michelle
 
-[Website](https://top.gg/bot/840180379389263882 "Michelle")
+Top.gg : [Website](https://top.gg/bot/840180379389263882 "Michelle")
 
-[main.py](https://github.com/MuditMehta07/Michelle#main.py)
-[level.py](https://github.com/MuditMehta07/Michelle#level.py)
+Main : [main.py](https://github.com/MuditMehta07/Michelle#main.py)
 
+Level System : [level.py](https://github.com/MuditMehta07/Michelle#level.py)
 
 
 # main.py
