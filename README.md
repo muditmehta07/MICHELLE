@@ -304,7 +304,10 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             await ctx.message.author.avatar_url.save(("logo.jpg"))
 
             level = LevelCog.human_format(self, level)
-            
+```
+
+```Python
+          
             if theme == 9807270: #gray
                 full_image = Image.open("./pictures/bg.jpg").convert("RGB").resize((1060, 320))
             elif theme == 15158332 or theme == 10038562: #red
@@ -330,6 +333,9 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
 
             theme = hex(theme).split('x')[-1]
 
+```
+
+```Python
             try:
                 logo = Image.open("logo.jpg").convert("RGB").resize((180, 180))
             except:
@@ -358,6 +364,9 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             else:
                 draw.ellipse((180, 165, 230, 215), fill="#d9d9d9")
 
+```
+
+```Python
             big_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 60)
             medium_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 40)
             small_font = ImageFont.FreeTypeFont("ABeeZee-Regular.otf", 30)
@@ -378,7 +387,9 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             text_size = draw.textsize("RANK", font=small_font)
             offset_x -= text_size[0] + 5
             draw.text((offset_x, offset_y + 27), "RANK", font=small_font, fill="#fff")
+```
 
+```Python
             bar_offset_x = 320
             bar_offset_y = 160
             bar_offset_x_1 = 950
@@ -444,7 +455,9 @@ __Step 4__ : Now the real fun begins with this step, we start writing the code f
             await ctx.send(file=file)
             os.remove("image.jpg")
             os.remove("logo.jpg")
+```
 
+```Python
         else:
             id = member.id
             with open(guildid, 'r') as f:
