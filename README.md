@@ -174,11 +174,6 @@ async def update_data(users, user):
         users[f'{user.id}']['rank'] = 0
         users[f'{user.id}']['level'] = 1
         users[f'{user.id}']['color'] = 0x95a5a6
-        users[f'{user.id}']['sage_spell'] = False
-        users[f'{user.id}']['hunter_spell'] = False
-        users[f'{user.id}']['wraith_spell'] = False
-        users[f'{user.id}']['chameleon'] = False
-        users[f'{user.id}']['transformation'] = False
         
         #creating the dictionary's where the data will be stored
         
