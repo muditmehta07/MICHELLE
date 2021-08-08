@@ -38,7 +38,7 @@ __Note__ : The prefix is changeable, if you do not know the prefix, just type `M
 This section has the main server commands related to channels and roles. 
 Currently it has the ability to set a `welcome` message channel, a `confession` message channel, a `reaction role` message and `custom replies`.
 
-1. Welcome Message
+__1. Welcome Message__
 
 __Usage__ : `=welcome <optional message>`
 
