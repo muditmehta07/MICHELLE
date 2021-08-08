@@ -32,3 +32,19 @@ __Note__ : The prefix is changeable, if you do not know the prefix, just type `M
 =help info : This is like the settings section of the bot. Example - Prefix Change, Feedback, etc.
 
 ```
+
+# General
+
+This section has the main server commands related to channels and roles. 
+Currently it has the ability to set a `welcome` message channel, a `confession` message channel, a `reaction role` message and `custom replies`.
+
+*1*. `=welcome <optional message>`
+
+```
+
+Use this command in a channel you wanna make your welcome channel, Michelle will send a Welcome Message to new users in that channel.
+
+Type '=welcome' if you don't want to set a custome message. If no custom message is provided, Michelle will send 'Hey <user mention>! Welcome to <server name>! Glad to have you here!'
+
+
+```
