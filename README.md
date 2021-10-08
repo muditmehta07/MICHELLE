@@ -10,7 +10,7 @@
 
 Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.readthedocs.io/en/stable/api.html "Documentation") by [Mudit07](https://github.com/MuditMehta07 "MuditMehta07").
 
-<h2 style="color:skyblue;">- Features -</h1>
+# Features
 
 <ul>
 <li><b>General</b>
@@ -72,7 +72,7 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 </li>
 </ul>
 
-<h2 style="color:skyblue;">- Patch Notes -</h1>
+# Patch Notes
 
 <ul>
 <li><b>Patch 0.8</b>
@@ -102,3 +102,65 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 </ul>
 
 # List of Commands
+
+<table>
+  <tr>
+    <th>Name
+    <th>Function
+    <th>Usage
+  </tr>
+  <tr>
+    <td>Help
+    <td>Lists all the sections of commands
+    <td>=help
+  </tr>
+  <tr>
+    <td>Confession
+    <td>Setup a confession channel
+    <td>=help confess
+  </tr>
+  <tr>
+    <td>Custom Pings
+    <td>Create custom replies
+    <td>=ping
+  </tr>
+  <tr>
+    <td>Embed
+    <td>Embed text to make it neater
+    <td>=embed (text)
+  </tr>
+  <tr>
+    <td>Reaction Roles
+    <td>Setup reaction roles
+    <td>=reaction
+  </tr>
+  <tr>
+    <td>Welcome
+    <td>Setup welcome channel
+    <td>=help welcome
+  </tr>
+  <tr>
+    <td>Level Card
+    <td>Get details like Level & XP
+    <td>=level
+  </tr>
+  <tr>
+    <td>Check Level
+    <td>See another user's level
+    <td>=level @(user-mention)
+  </tr>
+  <tr>
+    <td>Leaderboard
+    <td>Top 20 users in the server
+    <td>=leaderboard
+  </tr>
+  <tr>
+    <td>Meme
+    <td>Sends a random meme
+    <td>=meme
+  </tr>
+  <tr>
+    <td>Meme by Category
+    <td>Sends meme from specified category
+    <td>=meme (category)
+</table>
