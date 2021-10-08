@@ -72,35 +72,6 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 </li>
 </ul>
 
-# Patch Notes
-
-<ul>
-<li><b>Patch 0.8</b>
-<ul>
-  <li>Feature : Weapons - Use with Kill Command.</li>
-  <li>Bug Fix : Profile displayed incorrect information.</li>
-</ul>
-</li>
-<li><b>Patch 0.7</b>
-<ul>
-  <li>Quality : Icons - Updated icons in help command to match Michelle's blue color scheme.</li>
-  <li>Bug Fix : Help Sent multiple times when PROTIPS were Enabled.</li>
-</ul>
-</li>
-<li><b>Patch 0.6</b>
-<ul>
-  <li>Feature : Settings - Turn Features ON or OFF.</li>
-  <li>Quality : Reaction Roles : Will now be displayed as a list instead of Embed Fields.</li>
-</ul>
-</li>
-<li><b>Patch 0.5</b>
-<ul>
-  <li>Feature : Daily Rewards : Get free XP every 24 Hours.</li>
-  <li>Bug Fix : Adding Michelle to a server did not send a *Gift Box* to user.</li>
-</ul>
-</li>
-</ul>
-
 # List of Commands
 
 <table>
@@ -325,3 +296,32 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
     <td>=settings
   </tr>
 </table>
+
+# Patch Notes
+
+<ul>
+<li><b>Patch 0.8</b>
+<ul>
+  <li>Feature : Weapons - Use with Kill Command.</li>
+  <li>Bug Fix : Profile displayed incorrect information.</li>
+</ul>
+</li>
+<li><b>Patch 0.7</b>
+<ul>
+  <li>Quality : Icons - Updated icons in help command to match Michelle's blue color scheme.</li>
+  <li>Bug Fix : Help Sent multiple times when PROTIPS were Enabled.</li>
+</ul>
+</li>
+<li><b>Patch 0.6</b>
+<ul>
+  <li>Feature : Settings - Turn Features ON or OFF.</li>
+  <li>Quality : Reaction Roles : Will now be displayed as a list instead of Embed Fields.</li>
+</ul>
+</li>
+<li><b>Patch 0.5</b>
+<ul>
+  <li>Feature : Daily Rewards : Get free XP every 24 Hours.</li>
+  <li>Bug Fix : Adding Michelle to a server did not send a *Gift Box* to user.</li>
+</ul>
+</li>
+</ul>
