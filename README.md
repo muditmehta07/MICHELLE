@@ -6,8 +6,10 @@ Invite Link : [Invite](https://discordapp.com/oauth2/authorize?client_id=8401803
 
 # Features
 
-• General
-> ◦ Welcome new server members with a customized welcome message.
+<ul>
+<li>General</li>
+<ul>
+  <li>Welcome new server members with a customized welcome message.</li>
 
 > ◦ Let members express themself anonymously with Confessions.
 
