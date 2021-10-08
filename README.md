@@ -8,7 +8,7 @@
 
 > Status : Online
 
-Michelle is an open source Discord Bot coded in Python with [Discord.py](https://discordpy.readthedocs.io/en/stable/api.html "Documentation") by [Mudit07](https://github.com/MuditMehta07 "MuditMehta07").
+Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.readthedocs.io/en/stable/api.html "Documentation") by [Mudit07](https://github.com/MuditMehta07 "MuditMehta07").
 
 # Features
 
