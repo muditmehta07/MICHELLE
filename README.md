@@ -10,14 +10,10 @@ Invite Link : [Invite](https://discordapp.com/oauth2/authorize?client_id=8401803
 <li>General</li>
 <ul>
   <li>Welcome new server members with a customized welcome message.</li>
-
-> ◦ Let members express themself anonymously with Confessions.
-
-> ◦ Give your members freedom to select their roles by reacting to messages.
-
-> ◦ Create custom responses to your texts.
-
-> ◦ Embed messages, make it look clean and beautiful!
+  <li>Let members express themself anonymously with Confessions.</li>
+  <li>Give your members freedom to select their roles by reacting to messages.</li>
+  <li>Create custom responses to your texts.</li>
+  <li>Embed messages, make it look clean and beautiful!</li>
 
 • Leveling
   ◦ Keep track of the most active users on your server.
