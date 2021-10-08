@@ -1,3 +1,5 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://images.discordapp.net/avatars/840180379389263882/c7025f4962473f778e5effde81601b1e.png?size=128"> 
+
 # Michelle
 
 Top.gg : [Website](https://top.gg/bot/840180379389263882 "Michelle")
