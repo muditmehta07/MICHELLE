@@ -163,4 +163,165 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
     <td>Meme by Category
     <td>Sends meme from specified category
     <td>=meme (category)
+  </tr>
+  <tr>
+    <td>Roast
+    <td>Insult a user (not nsfw)
+    <td>=roast @(user-mention)
+  </tr>
+  <tr>
+    <td>Kill
+    <td>Steals XP from user killed
+    <td>=kill @(user-mention)
+  </tr>
+  <tr>
+    <td>Kill by Weapon
+    <td>Kill a user using specified weapon
+    <td>=kill (weapon) @(user-mention)
+  </tr>
+  <tr>
+    <td>Dice
+    <td>Roll a dice
+    <td>=dice
+  </tr>
+  <tr>
+    <td>8 Ball
+    <td>Get random responses to questions 
+    <td>=8ball (question)
+  </tr>
+  <tr>
+    <td>Coin
+    <td>Flip a coin
+    <td>=flip
+  </tr>
+  <tr>
+    <td>Daily Rewards
+    <td>Claim your daily XP
+    <td>=daily
+  </tr>
+  <tr>
+    <td>Gift Box
+    <td>Open a Gift Box
+    <td>=item giftbox
+  </tr>
+  <tr>
+    <td>Weapons
+    <td>Get a list of weapons to buy
+    <td>=weapons
+  </tr>
+  <tr>
+    <td>Spells
+    <td>Get a list of spells to buy
+    <td>=item spells
+  </tr>
+  <tr>
+    <td>Jutsu
+    <td>Get a list of jutsu to buy
+    <td>=item jutsu
+  </tr>
+  <tr>
+    <td>Buy
+    <td>Buy an item from the store
+    <td>=buy (item-name)
+  </tr>
+  <tr>
+    <td>Hug
+    <td>Hug a user
+    <td>=hug @(user-mention)
+  </tr>
+  <tr>
+    <td>Kiss
+    <td>Kiss a user
+    <td>=kiss @(user-mention)
+  </tr>
+  <tr>
+    <td>Slap
+    <td>Slap a user
+    <td>=slap @(user-mention)
+  </tr>
+  <tr>
+    <td>Language
+    <td>Get a list of language codes
+    <td>=lang
+  </tr>
+  <tr>
+    <td>Detect 
+    <td>Get the name of the language being used
+    <td>=detect (text-to-detect)
+  </tr>
+  <tr>
+    <td>Translate
+    <td>Get a translation of text to a specified language
+    <td>=tr (text-to-translate) (language-code)
+  </tr>
+  <tr>
+    <td>Morse
+    <td>Encode text to morse
+    <td>=morse (text)
+  </tr>
+  <tr>
+    <td>Unmorse
+    <td>Decode text to English
+    <td>=unmorse (text)
+  </tr>
+  <tr>
+    <td>Wikipedia Search
+    <td>Get wiki search results to query
+    <td>=wiki? (query)
+  </tr>
+  <tr>
+    <td>Wikipedia Article
+    <td>Get wiki article to query
+    <td>=wiki (query)
+  </tr>
+  <tr>
+    <td>Reddit
+    <td>Get reddit post by subreddit
+    <td>=reddit (subreddit)
+  </tr>
+  <tr>
+    <td>YouTube
+    <td>Get youtube video link to query
+    <td>=yt (query)
+  </tr>
+  <tr>
+    <td>Theme
+    <td>Get list of colors to set as theme
+    <td>=theme
+  </tr>
+  <tr>
+    <td>Profile
+    <td>Get your data saved in Michelle
+    <td>=profile
+  </tr>
+  <tr>
+    <td>Server
+    <td>Get server data saved in Michelle
+    <td>=server
+  </tr>
+  <tr>
+    <td>Invite
+    <td>Get Michelle invite link
+    <td>=invite
+  </tr>
+  <tr>
+    <td>Vote
+    <td>Get Michelle vote link
+    <td>=vote
+  </tr>
+  <tr>
+    <td>Prefix
+    <td>Change server prefix from '='
+    <td>=prefix (new-prefix)
+  </tr>
+  <tr>
+    <td>Report
+    <td>Report an issue with Michelle
+    <td>=report (issue-in-detail)
+  </tr>
+  <tr>
+    <td>Settings
+    <td>Turn features on/off
+    <td>=settings
+  </tr>
 </table>
