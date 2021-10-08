@@ -10,7 +10,7 @@
 
 Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.readthedocs.io/en/stable/api.html "Documentation") by [Mudit07](https://github.com/MuditMehta07 "MuditMehta07").
 
-# Features
+<h2 style="color:skyblue;">- Features -</h1>
 
 <ul>
 <li><b>General</b>
@@ -72,7 +72,7 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 </li>
 </ul>
 
-# Patch Notes
+<h2 style="color:skyblue;">- Patch Notes -</h1>
 
 <ul>
 <li><b>Patch 0.8</b>
@@ -100,3 +100,5 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 </ul>
 </li>
 </ul>
+
+# List of Commands
