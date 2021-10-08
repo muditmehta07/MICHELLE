@@ -74,6 +74,8 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 
 # List of Commands
 
+> Note : Incomplete list, main commands are specified
+
 <table>
   <tr>
     <th>Name
@@ -298,6 +300,8 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 </table>
 
 # Patch Notes
+
+> Note : Dates of updates will be added from `Patch-1.0`
 
 <ul>
 <li><b>Patch 0.8</b>
