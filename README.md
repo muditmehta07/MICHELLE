@@ -8,9 +8,13 @@ Invite Link : [Invite](https://discordapp.com/oauth2/authorize?client_id=8401803
 
 • General
 > ◦ Welcome new server members with a customized welcome message.
+
 > ◦ Let members express themself anonymously with Confessions.
+
 > ◦ Give your members freedom to select their roles by reacting to messages.
+
 > ◦ Create custom responses to your texts.
+
 > ◦ Embed messages, make it look clean and beautiful!
 
 • Leveling
