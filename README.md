@@ -305,6 +305,12 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 > Note : Dates of updates will be added from `Patch-1.0`
 
 <ul>
+<li><b>Patch 0.9</b>
+<ul>
+  <li>Improvement : Colored icons for every theme.</li>
+  <li>Removed : Dark Theme and Light Theme sections replaced by - Theme.</li>
+</ul>
+</li>
 <li><b>Patch 0.8</b>
 <ul>
   <li>Feature : Weapons - Use with Kill Command.</li>
