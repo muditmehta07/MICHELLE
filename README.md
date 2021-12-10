@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://images.discordapp.net/avatars/840180379389263882/c7025f4962473f778e5effde81601b1e.png?size=128"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://cdn.discordapp.com/avatars/840180379389263882/b6c626a783215e6fb8606c2c368c0548.webp?size=128"> 
 
 # Michelle
 
@@ -302,12 +302,16 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 
 # Patch Notes
 
-> Note : Dates of updates will be added from `Patch-1.0`
-
 <ul>
+<li><b>Patch 1.0 `December 12, 2021`</b>
+<ul>
+  <li>Feature : Sell your Spells, Jutsu and Weapons.</li>
+  <li>Improvement : Help command icon colors are now themed.</li>
+</ul>
+</li>
 <li><b>Patch 0.9</b>
 <ul>
-  <li>Improvement : Colored icons for every theme.</li>
+  <li>Improvement : Colored icons for Red theme.</li>
   <li>Removed : Dark Theme and Light Theme sections replaced by - Theme.</li>
 </ul>
 </li>
