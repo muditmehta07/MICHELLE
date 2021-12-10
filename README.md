@@ -303,7 +303,7 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 # Patch Notes
 
 <ul>
-<li><b>Patch 1.0 (December 12, 2021)</b>
+<li><b>Patch 1.0 -- December 12, 2021</b>
 <ul>
   <li>Feature : Sell your Spells, Jutsu and Weapons.</li>
   <li>Improvement : Help command icon colors are now themed.</li>
