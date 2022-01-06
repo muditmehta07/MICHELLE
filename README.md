@@ -303,12 +303,13 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 # Patch Notes
 
 <ul>
-<li><b>Patch 1.0 -- December 12, 2021</b>
+<li><b>Patch 1.2 -- January 6, 2022</b>
 <ul>
   <li>Look : Store has been updated to have a user-friendly interface.</li>
   <li>Bug Fix : Fixed a bug where store command did not work.</li>
 </ul>
 </li>
+</ul>
 <ul>
 <li><b>Patch 1.0 -- December 12, 2021</b>
 <ul>
