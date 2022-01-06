@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://cdn.discordapp.com/avatars/840180379389263882/b6c626a783215e6fb8606c2c368c0548.webp?size=128"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://images-ext-2.discordapp.net/external/Uw3zete7OQvBJAB3P-yT8BZKPx4cShvio7g5Gd-1-Mw/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/840180379389263882/8480ce41b90036134582236dd1f9a22e.webp?size=128"> 
 
 # Michelle
 
@@ -302,6 +302,13 @@ Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.re
 
 # Patch Notes
 
+<ul>
+<li><b>Patch 1.0 -- December 12, 2021</b>
+<ul>
+  <li>Look : Store has been updated to have a user-friendly interface.</li>
+  <li>Bug Fix : Fixed a bug where store command did not work.</li>
+</ul>
+</li>
 <ul>
 <li><b>Patch 1.0 -- December 12, 2021</b>
 <ul>
