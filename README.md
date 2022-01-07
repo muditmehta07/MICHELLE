@@ -7,6 +7,7 @@
 [![](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html "Documentation")
 
 > Status : Online
+
 > Invite Me : ["Michelle"](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 
 Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.readthedocs.io/en/stable/api.html "Documentation") by [Mudit07](https://github.com/MuditMehta07 "MuditMehta07").
