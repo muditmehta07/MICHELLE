@@ -3,11 +3,11 @@
 # Michelle
 
 [![](https://img.shields.io/discord/735922425103122533.svg?logo=discord&colorB=7289DA&label=Bot)](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands "Bot Invite")
-[![](https://img.shields.io/discord/874663210458959882.svg?logo=discord&colorB=7289DA&label=Michelle-Community)](https://discord.gg/fHrtttH2Zu "Server Invite")
 [![](https://img.shields.io/badge/Top.gg-gray.svg?logo=discord)](https://top.gg/bot/840180379389263882 "https://top.gg/bot/840180379389263882")
 [![](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html "Documentation")
 
 > Status : Online
+> Invite Me : ["Michelle"](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 
 Michelle is a Discord Bot coded in Python with [Discord.py](https://discordpy.readthedocs.io/en/stable/api.html "Documentation") by [Mudit07](https://github.com/MuditMehta07 "MuditMehta07").
 
