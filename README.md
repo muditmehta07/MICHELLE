@@ -10,6 +10,12 @@
 
 [Michelle](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands) is a Discord Bot coded in Python with [Discord.py](https://discordpy.readthedocs.io/en/stable/api.html "Documentation") by [Mudit07](https://github.com/MuditMehta07 "MuditMehta07").
 
+# Contents
+
+1. [Features](https://github.com/MuditMehta07/Michelle#features)
+2. [List of Commands](https://github.com/MuditMehta07/Michelle#list-of-commands)
+3. [Patch Notes](https://github.com/MuditMehta07/Michelle#patch-notes)
+
 # Features
 
 <ul>
