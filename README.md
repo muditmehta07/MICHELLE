@@ -308,6 +308,27 @@
 # Patch Notes
 
 <ul>
+<li><b>Patch 1.4 -- January 9, 2022</b>
+<ul>
+  <li>Help Command Update : The help command has been upgraded and is now easy-to-use with the new Select Menu that has been added to the Store Command in the previous patch.</li>
+  <li>New Command : <strong>dumbrate</strong> : Check your or another user's dumbrate</li>
+  <li>New Command : <strong>simprate</strong> : Check your or another user's simprate</li>
+  <li>New Command : <strong>hack</strong> : Hack a user - 100% real</li>
+  <li>New Command : <strong>kitty</strong> : Sends a cat pic</li>
+  <li>New Command : <strong>doggo</strong> : Sends a dog pic</li>
+  <li>New Command : <strong>aww</strong> : Sends a wholesome meme</li>
+  <li>Updated Command : <strong>hug / kiss / slap</strong> : Random GIFS will now be sent instead of an AI generated picture</li>
+  <li>Updated Command : <strong>meme / reddit</strong> : Updated the commands for a cleaner look</li>
+  <li>Updated Command : <strong>8ball</strong> : Added new replies and increased reply quality</li>
+  <li>Updated Command : <strong>michelle</strong> : The 'website' link will now redirect to MICHELLE's GitHub page instead of Top.gg page</li>
+  <li>Removed Feature : <strong>giftbox</strong> : You will not recieve a gift box on inviting MICHELLE</li>
+  <li>Removed Feature : <strong>themed icons</strong> : Since help command has been changed, themed icons will not appear there, they will still appear in command sub-sections</li>
+  <li>Bug : <strong>leaderboard</strong> : Leaderboard only showing Ranks 1-5 instead of 1-10</li>
+  <li>Bug : <strong>dumbrate</strong> : Check your or another user's dumbrate</li>
+</ul>
+</li>
+</ul>
+<ul>
 <li><b>Patch 1.2 -- January 6, 2022</b>
 <ul>
   <li>Look : Store has been updated to have a user-friendly interface.</li>
