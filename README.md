@@ -332,7 +332,7 @@
   <li>Updated Command : <strong>8ball</strong> : Added new replies and increased reply quality</li>
   <li>Updated Command : <strong>michelle</strong> : The 'website' link will now redirect to MICHELLE's GitHub page instead of Top.gg page</li>
   <li>Removed Feature : <strong>giftbox</strong> : You will not recieve a gift box on inviting MICHELLE</li>
-  <li>Removed Feature : <strong>themed icons</strong> : Since help command has been changed, themed icons will not appear there, they will still appear in command sub-sections</li>
+  <li>Removed Feature : <strong>themed icons</strong> : Themed icons will not appear on the help command and instead appear in command sub-sections</li>
   <li>Bug : <strong>leaderboard</strong> : Leaderboard only showing Ranks 1-5 instead of 1-10</li>
   <li>Bug : <strong>dumbrate</strong> : Check your or another user's dumbrate</li>
 </ul>
