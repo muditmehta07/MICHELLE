@@ -174,6 +174,36 @@
     <td>=flip
   </tr>
   <tr>
+    <td>Hack
+    <td>Hack a user, 100% real
+    <td>=hack @(user-mention)
+  </tr>
+  <tr>
+    <td>Dumb Rate
+    <td>Check dumb rate
+    <td>=dumbrate @(user-mention)
+  </tr>
+  <tr>
+    <td>Simp Rate
+    <td>Check simp rate
+    <td>=simprate @(user-mention)
+  </tr>
+  <tr>
+    <td>Aww
+    <td>View wholesome memes
+    <td>=aww
+  </tr>
+  <tr>
+    <td>Doggo
+    <td>View dog pics
+    <td>=doggo
+  </tr>
+  <tr>
+    <td>Kitty
+    <td>View cat pics
+    <td>=kitty
+  </tr>
+  <tr>
     <td>Daily Rewards
     <td>Claim your daily XP
     <td>=daily
@@ -181,22 +211,7 @@
   <tr>
     <td>Gift Box
     <td>Open a Gift Box
-    <td>=item giftbox
-  </tr>
-  <tr>
-    <td>Weapons
-    <td>Get a list of weapons to buy
-    <td>=weapons
-  </tr>
-  <tr>
-    <td>Spells
-    <td>Get a list of spells to buy
-    <td>=item spells
-  </tr>
-  <tr>
-    <td>Jutsu
-    <td>Get a list of jutsu to buy
-    <td>=item jutsu
+    <td>=giftbox
   </tr>
   <tr>
     <td>Buy
@@ -262,11 +277,6 @@
     <td>YouTube
     <td>Get youtube video link to query
     <td>=yt (query)
-  </tr>
-  <tr>
-    <td>Theme
-    <td>Get list of colors to set as theme
-    <td>=theme
   </tr>
   <tr>
     <td>Profile
