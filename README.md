@@ -320,7 +320,7 @@
 <ul>
 <li><b>Patch 1.4 -- January 9, 2022</b>
 <ul>
-  <li>Help Command Update : The help command has been upgraded and is now easy-to-use with the new Select Menu that has been added to the Store Command in the previous patch.</li>
+  <li>Help Command Update : The help command has been upgraded and is now easy-to-use with the new Select Menu</li>
   <li>New Command : <strong>dumbrate</strong> : Check your or another user's dumbrate</li>
   <li>New Command : <strong>simprate</strong> : Check your or another user's simprate</li>
   <li>New Command : <strong>hack</strong> : Hack a user - 100% real</li>
