@@ -40,7 +40,7 @@
   <li>Stay entertained with latest memes.</li>
   <li>Roast your peers with lame one liners.</li>
   <li>Kill users and steal their XP. The better the weapon, the higher the XP.</li>
-  <li>Casually rolls a dice.</li>
+  <li>Roll a dice.</li>
   <li>Ask a question to get a random 8-Ball response.</li>
 </ul>
 </li>
