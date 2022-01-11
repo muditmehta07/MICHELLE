@@ -80,7 +80,7 @@
 
 # List of Commands
 
-> Note : Incomplete list, main commands are specified
+> Note : This list only contains the commands present in the Help Index, sub-section commands are not present
 
 <table>
   <tr>
