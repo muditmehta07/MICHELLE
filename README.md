@@ -8,7 +8,7 @@
 
 > Status : Online
 
-[Michelle](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands) is a Discord Bot coded in Python with [Discord.py](https://discordpy.readthedocs.io/en/stable/api.html "Documentation") by [Mudit07](https://github.com/MuditMehta07 "MuditMehta07").
+A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and more. [Click me to invite MICHELLE now](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands) 
 
 # Contents
 
