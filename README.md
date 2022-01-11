@@ -318,6 +318,13 @@
 # Patch Notes
 
 <ul>
+<li><b>Patch 1.5 -- January 11, 2022</b>
+<ul>
+  <li>Bug Fix : Leaderboard issue fixed, you can now view 1-10 ranks</li>
+</ul>
+</li>
+</ul>
+<ul>
 <li><b>Patch 1.4 -- January 9, 2022</b>
 <ul>
   <li>Help Command Update : The help command has been upgraded and is now easy-to-use with the new Select Menu</li>
@@ -334,7 +341,6 @@
   <li>Removed Feature : <strong>giftbox</strong> : You will not recieve a gift box on inviting MICHELLE</li>
   <li>Removed Feature : <strong>themed icons</strong> : Themed icons will not appear on the help command and instead appear in command sub-sections</li>
   <li>Bug : <strong>leaderboard</strong> : Leaderboard only showing Ranks 1-5 instead of 1-10</li>
-  <li>Bug : <strong>dumbrate</strong> : Check your or another user's dumbrate</li>
 </ul>
 </li>
 </ul>
