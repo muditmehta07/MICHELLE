@@ -326,7 +326,6 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
   <li>New Command : <strong>highfive</strong> : Request the highest of fives</li>
   <li>New Command : <strong>punch</strong> : Punch an irritating user</li>
   <li>New Command : <strong>pat</strong> : Comfort your loved ones</li>
-  <li>New Command : <strong>showerthoughts</strong> : Sends a random shower thought</li>
   <li>New Command : <strong>dadjoke</strong> : Sends a dad joke</li>
   <li>New Command : <strong>showerthoughts</strong> : Sends a random shower thought</li>
   <li>Updated Section : <strong>Image</strong> has been renamed to 'Emotes'
