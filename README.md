@@ -317,6 +317,8 @@
 
 # Patch Notes
 
+> Release dates available only from `Patch --1.0`
+
 <ul>
 <li><b>Patch 1.5 -- January 11, 2022</b>
 <ul>
