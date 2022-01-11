@@ -320,7 +320,7 @@
 <ul>
 <li><b>Patch 1.5 -- January 11, 2022</b>
 <ul>
-  <li>Updated Section : <strong>Store</strong> is now a section in Help Index instead of a command
+  <li>Updated Section : <strong>Store</strong> is now a section in the Help Index instead of a command
   <li>Bug Fix : Leaderboard issue fixed, you can now view 1-10 ranks</li>
 </ul>
 </li>
