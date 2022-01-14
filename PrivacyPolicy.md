@@ -7,7 +7,7 @@
 <ul>
   <li>We do not collect personal data, we do access your personal data through Discord's API, but your data is never stored with us.</li>
   <li>We do not track or collect any usage data.</li>
-  <li>The only data we collect is related to the bot commands - such as your Custom Replies, Welcome message channel ID, Role ID for Reaction Roles, etc. </li>
+  <li>The only data we collect is related to the bot commands, in order for them to function - such as Channel IDs, Role IDs, User IDs, etc. </li>
   <li>We do not use your personal data in any way.</li>
 </ul>
 </li>
