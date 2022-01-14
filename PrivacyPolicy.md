@@ -31,7 +31,7 @@
 </li>
 <li><b>Contact Us</b>
 <ul>
-  <li>If you want to inquire about anything related to our Terms and Privacy Policy, do contact us by email : muditmehta088@gmail.com</li>
+  <li>If you want to inquire about anything related to our Terms and Privacy Policy, do contact us by email : <strong>muditmehta088@gmail.com</strong></li>
 </ul>
 </li>
 </ul>
