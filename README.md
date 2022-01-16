@@ -10,7 +10,8 @@
 
 A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and more.    
 
-> [Invite Link](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands) 
+> [Invite Link](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
+> [Community Server](https://discord.gg/rkeUVmuDeG)
 
 # Contents
 
