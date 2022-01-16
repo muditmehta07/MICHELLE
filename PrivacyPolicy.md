@@ -31,7 +31,7 @@
 </li>
 <li><b>Contact Us</b>
 <ul>
-  <li>If you want to inquire about anything related to our Terms and Privacy Policy, do contact us by email : <strong>muditmehta088@gmail.com</strong></li>
+  <li>If you wish to inquire about anything, do contact us through the <strong>Community Server</strong> : https://discord.gg/rkeUVmuDeG</li>
 </ul>
 </li>
 </ul>
