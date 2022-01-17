@@ -5,9 +5,9 @@
 <ul>
 <li><b>Data Collection and Usage</b>
 <ul>
-  <li>We do not collect personal data, we do access your personal data through Discord's API, but your data is never stored with us.</li>
+  <li>We collect MessageIDs, ChannelIDs, ServerIDs, UserIDs, RoleIDs, Server Names and User Names. This data helps the bot commands to function properly.</li>
   <li>We do not track or collect any usage data.</li>
-  <li>The only data we collect is related to the bot commands, in order for them to function - such as Channel IDs, Role IDs, User IDs, etc. </li>
+  <li>The additional data we collect is related to the bot commands, this data is provided by users through the commands - Message Content, Theme Color, etc. </li>
   <li>We do not use your personal data in any way.</li>
 </ul>
 </li>
