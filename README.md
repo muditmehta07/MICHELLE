@@ -326,6 +326,13 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 > Release dates available only from `Patch --1.0`
 
 <ul>
+<li><b>Patch 1.6 -- January 22, 2022</b>
+<ul>
+  <li>New Command : <strong>transform</strong> : Transformation Jutsu owners can now change their names on the leaderboard</li>
+</ul>
+</li>
+</ul>
+<ul>
 <li><b>Patch 1.5 -- January 11, 2022</b>
 <ul>
   <li>New Command : <strong>highfive</strong> : Request the highest of fives</li>
