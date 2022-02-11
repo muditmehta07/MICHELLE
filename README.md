@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://images-ext-2.discordapp.net/external/Uw3zete7OQvBJAB3P-yT8BZKPx4cShvio7g5Gd-1-Mw/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/840180379389263882/8480ce41b90036134582236dd1f9a22e.webp?size=128"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://cdn.discordapp.com/avatars/840180379389263882/86accdc6935870ec59ca8c53d4679f62.webp?size=1024"> 
 
 # Michelle
 
