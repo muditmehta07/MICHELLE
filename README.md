@@ -84,5 +84,6 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 
 # Team
 
-<img src="https://i.ibb.co/PrrFN0j/Screenshot-2022-02-14-230544.png">
+<ul>Developer</ul>
+<img src="https://imgur.com/a/z2VQz7K">
 <img src="https://i.ibb.co/M6W3ryx/Screenshot-2022-02-14-230620.png">
