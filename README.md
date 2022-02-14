@@ -92,4 +92,5 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 <ul>
   <li>Moderators</li>
 </ul>
-<img src="https://i.imgur.com/kNB3YBs.png>
+
+<img src="https://i.imgur.com/kNB3YBs.png">
