@@ -66,18 +66,11 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 </li>
 <li><b>And Much More</b>
 <ul>
+  <li>Customize your server's command prefix.</li>
   <li>Make everything look easy to the eye by changing your Theme.</li>
   <li>Get your user profile with your Michelle data.</li>
   <li>Get a server's information.</li>
   <li>Found a bug? or have suggestions for the bot? Just give us a Feedback.</li>
-</ul>
-</li>
-<li><b>And Much Much More</b>
-<ul>
-  <li>Tired of using '=' as a command prefix? Just change it to anything you like.</li>
-  <li>Don't want those annoying tips to appear? Just turn them off!</li>
-  <li>Frustrated of your level up messages appearing in between serious conversations? Turn them off!</li>
-  <li>ARE YOU REALLY ANNOYED OF YOUR CUSTOM RESPONSES AND WANT TO TEMPORARILY DISABLE THEM? JUST TURN EM OFF!!!!!!</li>
 </ul>
 </li>
 </ul>
