@@ -16,11 +16,10 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 
 # Contents
 
-1. [Features](https://github.com/MuditMehta07/Michelle#features)
-2. [List of Commands](https://github.com/MuditMehta07/Michelle/blob/main/ListOfCommands.md)
-3. [Patch Notes](https://github.com/MuditMehta07/Michelle/blob/main/PatchNotes.md)
-4. [Privacy Policy](https://github.com/MuditMehta07/Michelle/blob/main/PrivacyPolicy.md)
-5. [Terms Of Service](https://github.com/MuditMehta07/Michelle/blob/main/TermsOfService.md)
+1. [List of Commands](https://github.com/MuditMehta07/Michelle/blob/main/ListOfCommands.md)
+2. [Patch Notes](https://github.com/MuditMehta07/Michelle/blob/main/PatchNotes.md)
+3. [Privacy Policy](https://github.com/MuditMehta07/Michelle/blob/main/PrivacyPolicy.md)
+4. [Terms Of Service](https://github.com/MuditMehta07/Michelle/blob/main/TermsOfService.md)
 
 # Features
 
