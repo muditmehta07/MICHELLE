@@ -84,7 +84,4 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 
 # Team
 
-<img src="https://cdn.discordapp.com/avatars/488996680058798081/7f5668756dfae282dc79b987d8c07d68.png?size=1024">
-img {
-  border-radius: 50%;
-}
+<img src="https://cdn.discordapp.com/avatars/488996680058798081/7f5668756dfae282dc79b987d8c07d68.png?size=1024" style="border-radius: 50%;">
