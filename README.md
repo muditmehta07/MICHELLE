@@ -82,7 +82,7 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 </li>
 </ul>
 
-# Team
+# Staff
 
 <ul>
   <li>Developer(s)</li>
