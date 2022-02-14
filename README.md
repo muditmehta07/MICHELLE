@@ -85,12 +85,12 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 # Team
 
 <ul>
-  <li>Developers</li>
+  <li>Developer(s)</li>
 </ul>
 <img src="https://i.imgur.com/7Nkr8uD.png">
 
 <ul>
-  <li>Moderators</li>
+  <li>Moderator(s)</li>
 </ul>
 
 <img src="https://i.imgur.com/kNB3YBs.png">
