@@ -4,17 +4,26 @@
 
 **Note** : Release dates available only from `Patch 1.0`
 
-
+# Patch 1.7
+February 14, 2022
 
 <ul>
-<li><b>Patch 1.7 -- February 14, 2022</b>
+  <li><b>Improvements</b>
+    <ul>
+      <li>Quality of <strong>Casual</strong> section in the Help Command</li>
+      <li>Added command help when a command is used incorrectly</li>
+    </ul>
+  </li>
+</ul>
 <ul>
-  <li>Improvements : Quality of multiple commands have been improved</li>
-  <li>Command Update : <strong>leaderboard</strong> : Displays the entire leaderboard</li>
-  <li>New Command : <strong>top</strong> : Displays the top 10 leaderboard</li>
+  <li><b>Commands</b>
+    <ul>
+      <li>New Command : <strong>top</strong> : Displays the top 10 leaderboard</li>
+      <li>Command Update : <strong>leaderboard</strong> : Displays the entire leaderboard</li>
+    </ul>
+  </li>
 </ul>
-</li>
-</ul>
+
 <ul>
 <li><b>Patch 1.6 -- January 22, 2022</b>
 <ul>
