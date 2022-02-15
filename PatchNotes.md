@@ -39,7 +39,7 @@ January 22, 2022
 January 11, 2022
 
 <ul>
-  <li><b>Commands</b><li>
+  <li><b>Commands</b></li>
   <ul>
     <li>New Command : <strong>highfive</strong> : Request the highest of fives</li>
     <li>New Command : <strong>punch</strong> : Punch an irritating user</li>
