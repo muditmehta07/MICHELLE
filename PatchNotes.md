@@ -53,6 +53,8 @@ January 11, 2022
 January 9, 2022
 
 <ul>
+  <li>Commands</li>
+  <ul>
   <li>Help Command Update : The help command has been upgraded and is now easy-to-use with the new Select Menu</li>
   <li>New Command : <strong>dumbrate</strong> : Check your or another user's dumbrate</li>
   <li>New Command : <strong>simprate</strong> : Check your or another user's simprate</li>
@@ -60,6 +62,7 @@ January 9, 2022
   <li>New Command : <strong>kitty</strong> : Sends a cat pic</li>
   <li>New Command : <strong>doggo</strong> : Sends a dog pic</li>
   <li>New Command : <strong>aww</strong> : Sends a wholesome meme</li>
+  </ul>
   <li>Updated Command : <strong>hug / kiss / slap</strong> : Random GIFS will now be sent instead of an AI generated picture</li>
   <li>Updated Command : <strong>meme / reddit</strong> : Updated the commands for a cleaner look</li>
   <li>Updated Command : <strong>8ball</strong> : Added new replies and increased reply quality</li>
