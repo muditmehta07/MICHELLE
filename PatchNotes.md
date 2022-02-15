@@ -1,6 +1,7 @@
 # Patch Notes
 
 > Current Patch : 1.7
+
 **Note** : Release dates available only from `Patch 1.0`
 
 
