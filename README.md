@@ -25,52 +25,52 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 <ul>
 <li><b>General</b>
 <ul>
-  <li>Welcome new server members with a customized welcome message.</li>
-  <li>Let members express themself anonymously with Confessions.</li>
-  <li>Give your members freedom to select their roles by reacting to messages.</li>
-  <li>Create custom responses to your texts.</li>
-  <li>Embed messages, make it look clean and beautiful!</li>
+  <li><strong>Welcome</strong> : Say hello to new server members</li>
+  <li><strong>Confessions</strong> : Anonymously express yourself in a server</li>
+  <li><strong>Reaction Roles</strong> : Give server members freedom to choose their roles</li>
+  <li><strong>Pings</strong> : Create custom responses for your sent texts</li>
+  <li><strong>Embed</strong> : Make your texts presentable and beautiful</li>
 </ul>
 </li>
 <li><b>Leveling</b>
 <ul>
-  <li>Keep track of the most active users on your server.</li>
-  <li>Leaderboard gives you the top 10 members. Compete for rank!</li>
-  <li>See your progress on the Level Card.</li>
+  <li><strong>Level Card</strong> : View your level and xp</li>
+  <li><strong>Top 10</strong> : View the most active 10 users on the server</li>
+  <li><strong>Leaderboard</strong> : View the server leaderboard</li>
 </ul>
 </li>
 <li><b>Fun</b>
 <ul>
-  <li>Stay entertained with latest memes.</li>
-  <li>Roast your peers with lame one liners.</li>
-  <li>Kill users and steal their XP. The better the weapon, the higher the XP.</li>
-  <li>Roll a dice.</li>
-  <li>Ask a question to get a random 8-Ball response.</li>
+  <li><strong>Memes</strong> : Stay entertained with the latest memes</li>
+  <li><strong>Kill</strong> : Kill users and steal their xp. Better the weapon, higher the xp</li>
+  <li><strong>Showerthoughts</strong> : Read mind blowing and crazy shower thoughts</li>
+  <li><strong>Dadjoke</strong> :  Get a lame dad joke</li>
+  <li><strong>Hack</strong> : Hack a user. 100% real</li>
 </ul>
 </li>
 <li><b>Store</b>
 <ul>
-  <li>Get random XP every 24 Hours with Daily Rewards.</li>
-  <li>Gift Box every time you add Michelle to a new server. What's inside it?</li>
-  <li>Purchase specific weapons to kill users with.</li>
-  <li>Want to know what it's like to be immortal?</li>
-  <li>Want to hide yourself from the leaderboard?</li>
+  <li><strong>Daily</strong> : Get free xp every 24 hours</li>
+  <li><strong>Weapons</strong> : Choose your weapon and kill people (brutal)</li>
+  <li><strong>Spells</strong> : Choose your spell and enjoy its perks</li>
+  <li><strong>Jutsu</strong> : Hide or Transform yourself on the leaderboard</li>
 </ul>
 </li>
-<li><b>Casual</b>
+<li><b>Emotes & Casual</b>
 <ul>
-  <li>Slap / Hug a server member with a generated image.</li>
-  <li>Search for a Wikipedia article in seconds.</li>
-  <li>Search for a YouTube video without leaving Discord.</li>
+  <li><strong>Emotes</strong> : Slap, Hug, Pat, etc. a server member</li>
+  <li><strong>Wikipedia</strong> : Access the Wikipedia directly from Discord</li>
+  <li><strong>YouTube</strong> : Access YouTube directly from Discord</li>
+  <li><strong>Translate</strong> : Translate anything in a blink of an eye</li>
 </ul>
 </li>
 <li><b>And Much More</b>
 <ul>
-  <li>Customize your server's command prefix.</li>
-  <li>Make everything look easy to the eye by changing your Theme.</li>
-  <li>Get your user profile with your Michelle data.</li>
-  <li>Get a server's information.</li>
-  <li>Found a bug? or have suggestions for the bot? Just give us a Feedback.</li>
+  <li><strong>Custom Prefix</strong> : Change your server's command prefix</li>
+  <li><strong>Theme</strong> : Change your border, level card and leaderboard color</li>
+  <li><strong>Profile</strong> : View your Michelle profile</li>
+  <li><strong>Server</strong> : View the server's Michelle profile</li>
+  <li><strong>Feedback</strong> : Report a problem or give us a suggestion to improve Michelle</li>
 </ul>
 </li>
 </ul>
