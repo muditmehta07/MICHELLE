@@ -78,12 +78,12 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 # Staff
 
 <ul>
-  <li>Developer(s)</li>
+  <li><strong>Developer(s)</strong></li>
 </ul>
 <img src="https://i.imgur.com/7Nkr8uD.png">
 
 <ul>
-  <li>Moderator(s)</li>
+  <li><strong>Moderator(s)</strong></li>
 </ul>
 
 <img src="https://i.imgur.com/kNB3YBs.png">
