@@ -67,7 +67,7 @@ January 9, 2022
   <li>Updated Command : <strong>8ball</strong> : Added new replies and increased reply quality</li>
   <li>Updated Command : <strong>michelle</strong> : The 'website' link will now redirect to MICHELLE's GitHub page instead of Top.gg page</li>
   </ul>
-  <li><b>Improvements<>/b</li>
+  <li><b>Improvements</b></li>
   <ul>
   <li>Removed Feature : <strong>giftbox</strong> : You will not recieve a gift box on inviting MICHELLE</li>
   <li>Removed Feature : <strong>themed icons</strong> : Themed icons will not appear on the help command and instead appear in command sub-sections</li>
