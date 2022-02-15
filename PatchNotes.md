@@ -53,7 +53,7 @@ January 11, 2022
 January 9, 2022
 
 <ul>
-  <li>Commands</li>
+  <li><b>Commands</b></li>
   <ul>
   <li>Help Command Update : The help command has been upgraded and is now easy-to-use with the new Select Menu</li>
   <li>New Command : <strong>dumbrate</strong> : Check your or another user's dumbrate</li>
@@ -67,12 +67,12 @@ January 9, 2022
   <li>Updated Command : <strong>8ball</strong> : Added new replies and increased reply quality</li>
   <li>Updated Command : <strong>michelle</strong> : The 'website' link will now redirect to MICHELLE's GitHub page instead of Top.gg page</li>
   </ul>
-  <li>Improvements</li>
+  <li><b>Improvements<>/b</li>
   <ul>
   <li>Removed Feature : <strong>giftbox</strong> : You will not recieve a gift box on inviting MICHELLE</li>
   <li>Removed Feature : <strong>themed icons</strong> : Themed icons will not appear on the help command and instead appear in command sub-sections</li>
   </ul>
-  <li>Bug Fixes</li>
+  <li><b>Bug Fixes</b></li>
   <ul>
   <li>Bug : <strong>leaderboard</strong> : Leaderboard only showing Ranks 1-5 instead of 1-10</li>
   </ul>
