@@ -49,8 +49,13 @@
     <td>=level @(user-mention)
   </tr>
   <tr>
+    <td>Top 10
+    <td>Top 10 Leaderboard
+    <td>=top
+  </tr>
+  <tr>
     <td>Leaderboard
-    <td>Top 20 users in the server
+    <td>Server Leaderboard
     <td>=leaderboard
   </tr>
   <tr>
