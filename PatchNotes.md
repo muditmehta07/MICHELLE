@@ -6,6 +6,8 @@
 <li><b>Patch 1.7 -- February 14, 2022</b>
 <ul>
   <li>Improvements : Quality of multiple commands have been improved</li>
+  <li>Command Update : <strong>leaderboard</strong> : Displays the entire leaderboard
+  <li>New Command : <strong>top</strong> : Displays the top 10 leaderboard
 </ul>
 </li>
 </ul>
