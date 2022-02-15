@@ -1,6 +1,8 @@
 # Patch Notes
 
-> Release dates available only from `Patch --1.0`
+**Note** : Release dates available only from `Patch 1.0`
+
+
 
 <ul>
 <li><b>Patch 1.7 -- February 14, 2022</b>
