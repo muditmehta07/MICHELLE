@@ -39,14 +39,23 @@ January 22, 2022
 January 11, 2022
 
 <ul>
+  <li><b>Commands</b><li>
+  <ul>
   <li>New Command : <strong>highfive</strong> : Request the highest of fives</li>
   <li>New Command : <strong>punch</strong> : Punch an irritating user</li>
   <li>New Command : <strong>pat</strong> : Comfort your loved ones</li>
   <li>New Command : <strong>dadjoke</strong> : Sends a dad joke</li>
   <li>New Command : <strong>showerthoughts</strong> : Sends a random shower thought</li>
+  </ul>
+  <li><b>Improvements</b></li>
+  <ul>
   <li>Updated Section : <strong>Image</strong> has been renamed to 'Emotes'
   <li>Updated Section : <strong>Store</strong> is now a section in the Help Index instead of a command
-  <li>Bug Fix : Leaderboard issue fixed, you can now view 1-10 ranks</li>
+  </ul>
+  <li><b>Bugs</b></li>
+  <ul>
+  <li>Bug Fixed : Leaderboard issue fixed, you can now view 1-10 ranks</li>
+  </ul>
 </ul>
 
 # Patch : 1.4
@@ -72,9 +81,9 @@ January 9, 2022
   <li>Removed Feature : <strong>giftbox</strong> : You will not recieve a gift box on inviting MICHELLE</li>
   <li>Removed Feature : <strong>themed icons</strong> : Themed icons will not appear on the help command and instead appear in command sub-sections</li>
   </ul>
-  <li><b>Bug Fixes</b></li>
+  <li><b>Bugs</b></li>
   <ul>
-  <li>Bug : <strong>leaderboard</strong> : Leaderboard only showing Ranks 1-5 instead of 1-10</li>
+  <li>Bug : <strong>leaderboard</strong> : Leaderboard only showed Ranks 1-5 instead of 1-10</li>
   </ul>
 </ul>
 
