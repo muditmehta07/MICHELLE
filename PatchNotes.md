@@ -62,14 +62,20 @@ January 9, 2022
   <li>New Command : <strong>kitty</strong> : Sends a cat pic</li>
   <li>New Command : <strong>doggo</strong> : Sends a dog pic</li>
   <li>New Command : <strong>aww</strong> : Sends a wholesome meme</li>
-  </ul>
   <li>Updated Command : <strong>hug / kiss / slap</strong> : Random GIFS will now be sent instead of an AI generated picture</li>
   <li>Updated Command : <strong>meme / reddit</strong> : Updated the commands for a cleaner look</li>
   <li>Updated Command : <strong>8ball</strong> : Added new replies and increased reply quality</li>
   <li>Updated Command : <strong>michelle</strong> : The 'website' link will now redirect to MICHELLE's GitHub page instead of Top.gg page</li>
+  </ul>
+  <li>Improvements</li>
+  <ul>
   <li>Removed Feature : <strong>giftbox</strong> : You will not recieve a gift box on inviting MICHELLE</li>
   <li>Removed Feature : <strong>themed icons</strong> : Themed icons will not appear on the help command and instead appear in command sub-sections</li>
+  </ul>
+  <li>Bug Fixes</li>
+  <ul>
   <li>Bug : <strong>leaderboard</strong> : Leaderboard only showing Ranks 1-5 instead of 1-10</li>
+  </ul>
 </ul>
 
 # Patch : 1.2
