@@ -28,7 +28,11 @@ February 14, 2022
 January 22, 2022
 
 <ul>
-  <li>New Command : <strong>transform</strong> : Transformation Jutsu owners can now change their names on the leaderboard</li>
+  <li><b>Commands</b>
+    <ul>
+      <li>New Command : <strong>transform</strong> : Transformation Jutsu owners can now change their names on the leaderboard</li>
+    </ul>
+  </li>
 </ul>
 
 <ul>
