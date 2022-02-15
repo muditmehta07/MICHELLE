@@ -4,7 +4,7 @@
 
 **Note** : Release dates available only from `Patch 1.0`
 
-# Patch 1.7
+# Patch : 1.7
 February 14, 2022
 
 <ul>
@@ -35,8 +35,9 @@ January 22, 2022
   </li>
 </ul>
 
-<ul>
-<li><b>Patch 1.5 -- January 11, 2022</b>
+# Patch : 1.5
+January 11, 2022
+
 <ul>
   <li>New Command : <strong>highfive</strong> : Request the highest of fives</li>
   <li>New Command : <strong>punch</strong> : Punch an irritating user</li>
@@ -47,10 +48,10 @@ January 22, 2022
   <li>Updated Section : <strong>Store</strong> is now a section in the Help Index instead of a command
   <li>Bug Fix : Leaderboard issue fixed, you can now view 1-10 ranks</li>
 </ul>
-</li>
-</ul>
-<ul>
-<li><b>Patch 1.4 -- January 9, 2022</b>
+
+# Patch : 1.4
+January 9, 2022
+
 <ul>
   <li>Help Command Update : The help command has been upgraded and is now easy-to-use with the new Select Menu</li>
   <li>New Command : <strong>dumbrate</strong> : Check your or another user's dumbrate</li>
@@ -67,51 +68,54 @@ January 22, 2022
   <li>Removed Feature : <strong>themed icons</strong> : Themed icons will not appear on the help command and instead appear in command sub-sections</li>
   <li>Bug : <strong>leaderboard</strong> : Leaderboard only showing Ranks 1-5 instead of 1-10</li>
 </ul>
-</li>
-</ul>
-<ul>
-<li><b>Patch 1.2 -- January 6, 2022</b>
+
+# Patch : 1.2
+January 6, 2022
+
 <ul>
   <li>Look : Store has been updated to have a user-friendly interface.</li>
   <li>Bug Fix : Fixed a bug where store command did not work.</li>
 </ul>
-</li>
-</ul>
-<ul>
-<li><b>Patch 1.0 -- December 12, 2021</b>
+
+# Patch : 1.0
+December 12, 2021
+ 
 <ul>
   <li>Feature : Sell your Spells, Jutsu and Weapons.</li>
   <li>Improvement : Help command icon colors are now themed.</li>
 </ul>
-</li>
-<li><b>Patch 0.9</b>
+
+# Patch : 0.9
+
 <ul>
   <li>Improvement : Colored icons for Red theme.</li>
   <li>Removed : Dark Theme and Light Theme sections replaced by - Theme.</li>
 </ul>
-</li>
-<li><b>Patch 0.8</b>
+
+# Patch : 0.8
+
 <ul>
   <li>Feature : Weapons - Use with Kill Command.</li>
   <li>Bug Fix : Profile displayed incorrect information.</li>
 </ul>
-</li>
-<li><b>Patch 0.7</b>
+
+# Patch : 0.7
+
 <ul>
   <li>Quality : Icons - Updated icons in help command to match Michelle's blue color scheme.</li>
   <li>Bug Fix : Help Sent multiple times when PROTIPS were Enabled.</li>
 </ul>
-</li>
-<li><b>Patch 0.6</b>
+
+# Patch : 0.6
+
 <ul>
   <li>Feature : Settings - Turn Features ON or OFF.</li>
   <li>Quality : Reaction Roles : Will now be displayed as a list instead of Embed Fields.</li>
 </ul>
-</li>
-<li><b>Patch 0.5</b>
+
+# Patch : 0.5
+
 <ul>
   <li>Feature : Daily Rewards : Get free XP every 24 Hours.</li>
   <li>Bug Fix : Adding Michelle to a server did not send a *Gift Box* to user.</li>
-</ul>
-</li>
 </ul>
