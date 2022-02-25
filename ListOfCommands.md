@@ -1,7 +1,5 @@
 # List of Commands
 
-> Note : This list only contains the commands present in the Help Index, sub-section commands are not present
-
 <table>
   <tr>
     <th>Name
@@ -57,11 +55,6 @@
     <td>Leaderboard
     <td>Server Leaderboard
     <td>=leaderboard
-  </tr>
-  <tr>
-    <td>Meme
-    <td>Sends a random meme
-    <td>=meme
   </tr>
   <tr>
     <td>Meme by Category
@@ -129,6 +122,16 @@
     <td>=kitty
   </tr>
   <tr>
+    <td>Dadjoke
+    <td>Sends a dadjoke
+    <td>=dadjoke
+  </tr>
+  <tr>
+    <td>Showerthoughts
+    <td>Sends a showerthought
+    <td>=showerthought
+  </tr>
+  <tr>
     <td>Daily Rewards
     <td>Claim your daily XP
     <td>=daily
@@ -147,6 +150,21 @@
     <td>Hug
     <td>Hug a user
     <td>=hug @(user-mention)
+  </tr>
+  <tr>
+    <td>Pat
+    <td>Pat a user
+    <td>=pat @(user-mention)
+  </tr>
+  <tr>
+    <td>Punch
+    <td>Punch a user
+    <td>=punch @(user-mention)
+  </tr>
+  <tr>
+    <td>Highfive
+    <td>Highfive a user
+    <td>=highfive @(user-mention)
   </tr>
   <tr>
     <td>Kiss
