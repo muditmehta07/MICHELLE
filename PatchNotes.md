@@ -11,7 +11,7 @@ February 14, 2022
   <li><b>Improvements</b>
     <ul>
       <li><b>Limitations : </b>If a user is spamming to get XP (5 XP is awarded for every message), Michele will temporarily stop awarding XP to them. 
-      <li>Quality of <strong>Casual</strong> section in the Help Command</li>
+      <li>Quality of <strong>Casual Section</strong> in the Help Command</li>
       <li>Added command help when a command is used incorrectly</li>
     </ul>
   </li>
