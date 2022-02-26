@@ -36,7 +36,7 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 <li><b>Leveling</b>
 <ul>
   <li><strong>Level Card</strong> : View your level and xp</li>
-  <li><strong>Top 10</strong> : View the most active 10 users on the server</li>
+  <li><strong>Top 5</strong> : View the most active 5 users on the server</li>
   <li><strong>Leaderboard</strong> : View the server leaderboard</li>
 </ul>
 </li>
