@@ -79,12 +79,18 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
 # Staff
 
 <ul>
-  <li><strong>Developer(s)</strong></li>
+  <li><strong>Bot & Website Developer</strong></li>
 </ul>
 <img src="https://i.imgur.com/7Nkr8uD.png">
 
 <ul>
-  <li><strong>Moderator(s)</strong></li>
+  <li><strong>Customer Service</strong></li>
 </ul>
 
-<img src="https://i.imgur.com/kNB3YBs.png">
+<img src="https://i.imgur.com/X6hN7BQ.png">
+
+<ul>
+  <li><strong>Server Manager</strong></li>
+</ul>
+
+<img src="https://i.imgur.com/nT97Q3w.png">
