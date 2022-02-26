@@ -1,8 +1,16 @@
 # Patch Notes
 
-> Current Patch : 1.7
+> Current Patch : 1.8
 
 **Note** : Release dates available only from `Patch 1.0`
+
+# Patch : 1.8
+February 26, 2022
+
+<ul>
+  <li><b>Limitations : </b>We have noticed that users are spamming to get XP (5 XP awarded per message). To avoid this, Michelle will stop awarding XP temporarily if spamming is noticed</li>
+</ul>
+  
 
 # Patch : 1.7
 February 14, 2022
@@ -10,7 +18,6 @@ February 14, 2022
 <ul>
   <li><b>Improvements</b>
     <ul>
-      <li><b>Limitations : </b>We have noticed that users are spamming to get XP (5 XP awarded per message). To avoid this, Michelle will stop awarding XP temporarily if spamming is noticed
       <li>Quality of <strong>Casual Section</strong> in the Help Command</li>
       <li>Added command help when a command is used incorrectly</li>
     </ul>
