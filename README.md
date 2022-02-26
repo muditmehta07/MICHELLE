@@ -10,7 +10,7 @@
 
 A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and more.    
 
-1. Website : [Visit](https://muditmehta07.github.io/michelle.gg/main.html)
+1. Website : [Visit](https://michelle-discord.github.io/michelle.gg/main.html)
 2. Invite Michelle : [Invite](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 3. Michelle's Community Server : [Join](https://discord.gg/EfHrMURtnA)
 
