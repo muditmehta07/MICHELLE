@@ -93,4 +93,4 @@ A multipurpose bot with a Leveling System, a unique Economy, Fun commands, and m
   <li><strong>Server Manager</strong></li>
 </ul>
 
-<img src="https://i.imgur.com/nT97Q3w.png">
+<img src="https://i.imgur.com/Jor2QNY.png">
