@@ -11,7 +11,7 @@ February 28, 2022
   <li><b>Limitations : </b>We have noticed that users are spamming to get XP (5 XP awarded per message). To avoid this, Michelle will stop awarding XP temporarily if spamming is noticed</li>
   <li><b>Giftbox : </b>Giftboxes now contain <code>100K</code> XP intead of the previous value of <code>1M</code> XP
   <li><b>Website : </b>All website links will redirect to www.michelle-bot.co instead of the GitHub Page
-  <li><b>New Command : </b><code>emojify</code> : The command will emojify any given text 
+  <li><b>New Command : </b><code>emojify</code> : The command will emojify any given text
 </ul>
   
 
