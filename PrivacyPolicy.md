@@ -31,7 +31,7 @@
 </li>
 <li><b>Contact Us</b>
 <ul>
-  <li>If you wish to inquire about anything, do contact us through the <strong>Community Server</strong> : https://discord.gg/rkeUVmuDeG</li>
+  <li>If you wish to inquire about anything, do contact us via Email : <b>michelle.discordbot@gmail.com</b>
 </ul>
 </li>
 </ul>
