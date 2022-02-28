@@ -25,7 +25,7 @@
 </li>
 <li><b>Contact Us</b>
 <ul>
-  <li>If you wish to inquire about anything, do contact us via Email : michelle.discordbot@gmail.com
+  <li>If you wish to inquire about anything, do contact us via Email : <b>michelle.discordbot@gmail.com</b>
 </ul>
 </li>
 </ul>
