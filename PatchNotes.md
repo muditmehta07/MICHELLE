@@ -9,7 +9,7 @@ February 26, 2022
 
 <ul>
   <li><b>Limitations : </b>We have noticed that users are spamming to get XP (5 XP awarded per message). To avoid this, Michelle will stop awarding XP temporarily if spamming is noticed</li>
-  <li><b>Giftbox : Giftboxes now contain `100K` XP intead of the previous value of `1M` XP
+  <li><b>Giftbox : </b>Giftboxes now contain <code>100K</code> XP intead of the previous value of <code>1M</code> XP
 </ul>
   
 
