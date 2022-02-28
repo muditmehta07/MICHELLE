@@ -76,21 +76,10 @@ A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 </li>
 </ul>
 
-# Staff
+# Contact
 
-<ul>
-  <li><strong>Bot & Website Developer</strong></li>
-</ul>
-<img src="https://i.imgur.com/7Nkr8uD.png">
+> Email : michelle.discordbot@gmail.com
 
-<ul>
-  <li><strong>Customer Service</strong></li>
-</ul>
+> Account Banned? Request for unban [here](https://forms.gle/eHmSGmThAezskCTn9).
 
-<img src="https://i.imgur.com/X6hN7BQ.png">
-
-<ul>
-  <li><strong>Bot & Server Manager</strong></li>
-</ul>
-
-<img src="https://i.imgur.com/H7mG0Vl.png">
+> Apply to join our team [here](https://forms.gle/fDQbtAfkqbiHf1F27).
