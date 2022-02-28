@@ -5,7 +5,7 @@
 **Note** : Release dates available only from `Patch 1.0`
 
 # Patch : 1.8
-February 28, 2022
+February 26, 2022
 
 <ul>
   <li><b>Limitations : </b>We have noticed that users are spamming to get XP (5 XP awarded per message). To avoid this, Michelle will stop awarding XP temporarily if spamming is noticed</li>
