@@ -78,6 +78,6 @@ A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 
 # Contact
 
-• Email : michelle.discordbot@gmail.com
-• Account Banned? Request for unban [here](https://forms.gle/eHmSGmThAezskCTn9).
-• Want to Join Us? Apply to join our team [here](https://forms.gle/fDQbtAfkqbiHf1F27).
+> Email : michelle.discordbot@gmail.com
+> Account Banned? Request for unban [here](https://forms.gle/eHmSGmThAezskCTn9).
+> Want to Join Us? Apply to join our team [here](https://forms.gle/fDQbtAfkqbiHf1F27).
