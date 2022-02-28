@@ -90,7 +90,7 @@ A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 <img src="https://i.imgur.com/X6hN7BQ.png">
 
 <ul>
-  <li><strong>Server Manager</strong></li>
+  <li><strong>Bot & Server Manager</strong></li>
 </ul>
 
 <img src="https://i.imgur.com/H7mG0Vl.png">
