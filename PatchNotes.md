@@ -8,6 +8,7 @@
 March 17, 2022
 
 <ul>
+  <li><b>Account Bans : </b>Feedbacks sent by users through Michelle are posted on Michelle's Community server. If users spam unnecessary or inappropriate reports, they will get a ban i.e. they will not be able to use the bot anymore.</li>
   <li><b>Level System : </b>Michelle will no longer award any XP points for messages sent by users. This is because of the recent spam reports and to encourage users to use our commands to increase their level.</li>
   <li><b>New Command : </b><code>guess</code> : Guess the Pokemon
 </ul>
