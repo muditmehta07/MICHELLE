@@ -4,6 +4,14 @@
 
 **Note** : Release dates available only from `Patch 1.0`
 
+# Patch : 1.9
+March 17, 2022
+
+<ul>
+  <li><b>Level System : </b>Michelle will no longer award any XP points for messages sent by users. This is because of the recent spam reports and to encourage users to use our commands to increase their level.</li>
+  <li><b>New Command : </b><code>guess</code> : Guess the Pokemon
+</ul>
+
 # Patch : 1.8
 February 26, 2022
 
