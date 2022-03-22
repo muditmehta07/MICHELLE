@@ -8,7 +8,8 @@
 March 22, 2022
 
 <ul>
-  <li><b>New Command Group : </b><code>chest</code> : Store your XP inside a chest to keep it safe from the <b>Kill</b> command. Chests can also be used to transfer XP. Chests can be accessed from any server, when you deposit XP into a chest from 1 server, you can withdraw this XP from another server.
+  <li><b>New Command Group : </b><code>chest</code> : Store your XP inside a chest to keep it safe from the <b>Kill</b> command. 
+    Chests can also be used to transfer XP. Deposit XP from one server, withdraw it from another.
 </ul>
 
 # Patch : 1.9
