@@ -8,6 +8,8 @@
 
 Status : Online
 
+> Michelle is now a Verified bot!
+
 A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 
 1. Offcial Website : [Visit](https://www.michelle-bot.co)
