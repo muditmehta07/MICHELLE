@@ -11,7 +11,7 @@ March 22, 2022
   <li><b>New Command Group : </b><code>chest</code> : Store your XP inside a chest to keep it safe from the <b>Kill</b> command. 
     Chests can also be used to transfer XP. Deposit XP from one server, withdraw it from another.
   <li><b>Improvement : </b>Commands have been re-categorized in the <b>Help Section</b>
-  <li><b>Improvement : </b>Characters now use their quotes from the animes when using <b>Beg Command</b>
+  <li><b>Improvement : </b>Characters now use their quotes from the animes in <b>Beg Command</b>
   <li><b>Bug Fix : </b>Daily command was not awarding XP
 </ul>
 
