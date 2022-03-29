@@ -1,3 +1,21 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://i.imgur.com/TntCpG2.png">
+
+# Michelle
+
+[![](https://img.shields.io/discord/735922425103122533.svg?logo=discord&colorB=7289DA&label=Bot)](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands "Bot Invite")
+[![](https://img.shields.io/badge/Top.gg-gray.svg?logo=discord)](https://top.gg/bot/840180379389263882 "https://top.gg/bot/840180379389263882")
+[![](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html "Documentation")
+
+**Status** : `Online`
+
+> Michelle is now a Verified Discord bot!
+
+A Multipurpose bot with a Leveling System, Economy, Fun commands and more
+
+1. Offcial Website : [Visit](https://www.michelle-bot.co)
+2. Invite Michelle : [Invite](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
+3. Michelle's Community Server : [Join](https://discord.gg/EfHrMURtnA)
+
 # Patch Notes
 
 > Current Patch : 1.8
