@@ -14,11 +14,22 @@
 March 29, 2022
 
 <ul>
-  <li><b>Improvement : </b>Commands have been re-categorized in the <b>Help Section</b>
-  <li><b>Look and Feel : </b><code>Chest</code> : Now displays information in a much more presentable manner
-  <li><b>Look and Feel : </b><code>Store</code> : Added emojis for <b>Sage Spell</b> and <b>Hunter Spell</b>
-  <li><b>Look and Feel : </b><code>Inventory</code> : Inventory has been entirely redesigned
-  <li><b>Bug Fix : </b>Chest help command was faulty
+  <li><b>Improvements</b>
+    <ul>
+      <li><b>Help Section : </b>Commands have been re-categorized
+      <li><b>Look and Feel : </b><code>Chest</code> : Now displays information in a much more presentable manner
+      <li><b>Look and Feel : </b><code>Store</code> : Added emojis for <b>Sage Spell</b> and <b>Hunter Spell</b>
+      <li><b>Look and Feel : </b><code>Inventory</code> : Inventory has been entirely redesigned
+    </ul>
+  </li>
+  <li><b>Bug Fixes</b>
+    <ul>
+      <li>Chest help commands updated to provide better help of the <code>usage</code>
+    </ul>
+  </li>
+</ul>
+  
+  
 </ul>
 
 # Patch : 2.0
