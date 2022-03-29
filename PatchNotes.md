@@ -36,11 +36,23 @@ March 29, 2022
 March 22, 2022
 
 <ul>
-  <li><b>New Command Group : </b><code>chest</code> : Store your XP inside a chest to keep it safe from the <b>Kill</b> command. 
+  <li><b>Improvements</b>
+    <ul>
+      <li><b>Improvement : </b>Commands have been re-categorized in the <b>Help Section</b>
+      <li><b>Improvement : </b>Characters now use their quotes from the animes in <b>Beg Command</b>
+    </ul>
+  </li>
+  <li><b>Commands</b>
+    <ul>
+      <li><b>New Group : </b><code>chest</code> : Store your XP inside a chest to keep it safe from the <b>Kill</b> command. 
     Chests can also be used to transfer XP. Deposit XP from one server, withdraw it from another.
-  <li><b>Improvement : </b>Commands have been re-categorized in the <b>Help Section</b>
-  <li><b>Improvement : </b>Characters now use their quotes from the animes in <b>Beg Command</b>
-  <li><b>Bug Fix : </b>Daily command was not awarding XP
+    </ul>
+  </li>
+  <li><b>Bug Fixes</b>
+    <ul>
+      <li><b>Bug Fix : </b>Daily command was not awarding XP
+    </ul>
+  </li>
 </ul>
 
 # Patch : 1.9
