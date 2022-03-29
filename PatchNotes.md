@@ -4,6 +4,17 @@
 
 **Note** : Release dates available only from `Patch 1.0`
 
+# Patch : 2.1
+March 29, 2022
+
+<ul>
+  <li><b>Improvement : </b>Commands have been re-categorized in the <b>Help Section</b>
+  <li><b>Look and Feel : </b><code>Chest</code> : Now displays information in a much more presentable manner
+  <li><b>Look and Feel : </b><code>Store</code> : Added emojis for <b>Sage Spell</b> and <b>Hunter Spell</b>
+  <li><b>Look and Feel : </b><code>Inventory</code> : Inventory has been entirely redesigned
+  <li><b>Bug Fix : </b>Chest help command was faulty
+</ul>
+
 # Patch : 2.0
 March 22, 2022
 
