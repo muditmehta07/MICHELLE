@@ -85,3 +85,6 @@ A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 > Account Banned? Request for unban [here](https://forms.gle/eHmSGmThAezskCTn9)
 > 
 > Want to Join Us? Apply to join our team [here](https://forms.gle/fDQbtAfkqbiHf1F27)
+
+<iframe src="https://www.michelle-bot.co/" width="100%" height="300">
+</iframe>
