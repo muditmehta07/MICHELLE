@@ -10,14 +10,6 @@
 
 > Michelle is now a Verified Discord bot!
 
-# Contents
-
-1. [Home](https://github.com/MuditMehta07/Michelle)
-2. [List of Commands](https://github.com/MuditMehta07/Michelle/blob/main/ListOfCommands.md)
-3. [Patch Notes](https://github.com/MuditMehta07/Michelle/blob/main/PatchNotes.md)
-4. [Terms Of Service](https://github.com/MuditMehta07/Michelle/blob/main/TermsOfService.md)
-5. [Privacy Policy](https://github.com/MuditMehta07/Michelle/blob/main/PrivacyPolicy.md)
-
 # Patch : 2.1
 March 29, 2022
 
