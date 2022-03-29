@@ -80,6 +80,6 @@ A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 
 # Contact
 
-✉ : michelle.discordbot@gmail.com
+__**Email**__ : michelle.discordbot@gmail.com
 
 > **Note** : In case of account ban, request for unban [here](https://forms.gle/eHmSGmThAezskCTn9)
