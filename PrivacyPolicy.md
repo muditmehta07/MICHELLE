@@ -5,7 +5,7 @@
 <ul>
 <li><b>Data Collection and Usage</b>
 <ul>
-  <li>We collect MessageIDs, ChannelIDs, ServerIDs, UserIDs, RoleIDs, Server Names and User Names. This data helps the bot commands to function properly. We do not track or collect any usage data. The additional data we collect is related to the bot commands, this data is provided by users through the commands - Message Content, Theme Color, etc. It is also to inform the users that we DO NOT use their personal data in any manner.</li>
+  <li>We collect <b>MessageIDs, ChannelIDs, ServerIDs, UserIDs, RoleIDs, Server Names and User Names</b>. This data helps the bot commands to function properly. We do not track or collect any usage data. The additional data we collect is related to the bot commands, this data is provided by users through the commands - Message Content, Theme Color, etc. It is also to inform the users that we DO NOT use their personal data in any manner.</li>
 </ul>
 </li>
 <li><b>Links to third-party websites</b>
