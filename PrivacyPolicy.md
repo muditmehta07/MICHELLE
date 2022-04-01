@@ -23,9 +23,9 @@
   <li>It is to also inform the users that the developer or the related organization reserves the right to change the aforesaid privacy policy WITHOUT any prior notice to the users. It is thereby advised to kindly keep checking the policy for any changes as and when they occur. The developer or the related organizations will also NOT provide any announcement about the changes in the policies.</li>
 </ul>
 </li>
-<li><b>Opting Out of Message.Content Intent</b>
+<li><b>Opting Out of Data Collection</b>
 <ul>
-  <li>We respect the privacy of individuals and our users, thus it is hereby inform to the concerned users and parties that they shall opt out from the Message.Content reading and may get their account banned from the bot through a mail or by contacting us directly.</li>
+  <li>We respect the privacy of individuals and our users, thus it is hereby inform to the concerned users and parties that they shall opt out from the Message.Content data collection (since the bot would not fuction correctly without this, we will blacklist the user so that the bot and it's commands would no longer be available to them (users) ) through a mail or by contacting us directly.</li>
 
 <li>We would also like to inform you that, the data will only be collected when the commands are being used (READ: <b>Data Collection and Usage</b> above), we in any manner DO NOT use the said data for any purposes outside of the functioning of the bot's commands. We DO NOT have any access to your private information whatsoever the case may be.</li>
 </ul>
