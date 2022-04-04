@@ -18,6 +18,6 @@
 
 <img width = "350px" src = "https://i.imgur.com/DTSpAFu.png">
 
-# cosmic
+# Cosmic
 
 <img width = "350px" src = "https://i.imgur.com/Oq5fht9.png">
