@@ -10,22 +10,19 @@
 
 > Michelle is now a `Verified` Discord bot!
 
-# Team
+# Mudit
 
 <img width = "350px" src = "https://i.imgur.com/tVRzPcL.png">
 
 > **Mudit** = OneManArmy
 
-# Staff
-
-<li><b>rainy</b></li>
+# rainy
 
 <img width = "350px" src = "https://i.imgur.com/DTSpAFu.png">
 
 > **rainy** presented countless amazing creative ideas like `Confessions`, `Meme`, `Spells` and `Kill`
 
-
-<li><b>cosmic</b></li>
+# cosmic
 
 <img width = "350px" src = "https://i.imgur.com/Oq5fht9.png">
 
