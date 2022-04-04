@@ -10,6 +10,6 @@
 
 > Michelle is now a Verified Discord bot!
 
-<img width = "150px" src = "https://i.imgur.com/tVRzPcL.png"> 
-<img width = "150px" src = "https://i.imgur.com/DTSpAFu.png"> 
-<img width = "150px" src = "https://i.imgur.com/Oq5fht9.png">
+<img width = "250px" src = "https://i.imgur.com/tVRzPcL.png"> 
+<img width = "250px" src = "https://i.imgur.com/DTSpAFu.png"> 
+<img width = "250px" src = "https://i.imgur.com/Oq5fht9.png">
