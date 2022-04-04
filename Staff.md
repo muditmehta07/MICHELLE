@@ -10,7 +10,7 @@
 
 > Michelle is now a Verified Discord bot!
 
-<li>Team</li>
+<li><b>Team</b></li>
 <img width = "350px" src = "https://i.imgur.com/tVRzPcL.png"> 
 <img width = "350px" src = "https://i.imgur.com/DTSpAFu.png"> 
 <img width = "350px" src = "https://i.imgur.com/Oq5fht9.png">
