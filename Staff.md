@@ -9,5 +9,6 @@
 **People who made** `Michelle` **possible**
 
 > Michelle is now a Verified Discord bot!
+> 
 
 <img width = "300px" src = "https://i.imgur.com/tVRzPcL.png"> <img width = "300px" src = "https://i.imgur.com/DTSpAFu.png"> <img width = "300px" src = "https://i.imgur.com/Oq5fht9.png">
