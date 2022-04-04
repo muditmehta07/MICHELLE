@@ -8,15 +8,20 @@
 
 **People who made** `Michelle` **possible**
 
-> Michelle is now a Verified Discord bot!
+> Michelle is now a `Verified` Discord bot!
 
 # Team
 
 <img width = "350px" src = "https://i.imgur.com/tVRzPcL.png">
 
-> **Mudit = OneManArmy**
+> **Mudit** = OneManArmy
 
 # Staff
 
-<img width = "350px" src = "https://i.imgur.com/DTSpAFu.png"> 
+<img width = "350px" src = "https://i.imgur.com/DTSpAFu.png">
+
+> **rainy** presented countless amazing creative ideas like `Confessions`, `Meme`, `Spells` and `Kill`
+
 <img width = "350px" src = "https://i.imgur.com/Oq5fht9.png">
+
+> **cosmic** manages the server and was a former bot partner. Currently on a Discord hiatus
