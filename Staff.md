@@ -14,7 +14,7 @@
 
 <img width = "350px" src = "https://i.imgur.com/tVRzPcL.png">
 
-**Mudit** = OneManArmy
+**Mudit = OneManArmy**
 
 # Staff
 
