@@ -28,9 +28,6 @@ March 29, 2022
     </ul>
   </li>
 </ul>
-  
-  
-</ul>
 
 # Patch : 2.0
 March 22, 2022
