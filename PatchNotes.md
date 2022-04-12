@@ -33,7 +33,7 @@ April 12, 2022
   </li>
   <li><b>Bug Fixes</b>
     <ul>
-      <li><b>Guess the Pokemon</b> did not award XP at times
+      <li><b>Guess the Pokemon</b> did not award <code>XP</code> at times
       <li><b>Emojify</b> did not convert some alphabets into emojis
       <li><b>Translate</b> did not translate from desired language
     </ul>
@@ -43,7 +43,7 @@ April 12, 2022
       <li><b>Guess the Pokemon</b> will not send a <code>Correct Guess</code> message when difficulty is set, but will award XP
       <li><b>Emotes</b> are sometimes repeating
       <li><b>8ball</b> replies are not randomized, we are actively working on making it better
-      <li><b>Beta Program</b> may not send the Help Index
+      <li><b>Beta Program</b> may not send the <code>Help Index</code>
     </ul>
   </li>
 </ul>
