@@ -10,6 +10,44 @@
 
 > Michelle is now a Verified Discord bot!
 
+# Patch : 2.2
+April 12, 2022
+
+<ul>
+  <li><b>Beta Program</b>
+    <ul>
+      <li><b>Beta features can now be enabled in settings. Once enabled, the Help Index will display some additional commands that are still work-in-progress, you may use these commands, or <code>Disable</code> the Beta features at will.</b>
+    </ul>
+  </li>
+  <li><b>Beta Features</b>
+    <ul>
+      <li><b>Command : </b><code>autorole</code> : Auto-role is the default role for a server. When the autorole has been set, this role will be assigned to new members that join the server. The command can be used again to change the current set auto-role.
+    </ul>
+  </li>
+  <li><b>Improvements</b>
+    <ul>
+      <li><b>Reaction Roles</b> have been redesigned with a better look
+      <li><b>Welcome Message</b> have been reworked
+      <li><b>Confessions</b> have been reworked
+    </ul>
+  </li>
+  <li><b>Bug Fixes</b>
+    <ul>
+      <li><b>Guess the Pokemon</b> did not award XP at times
+      <li><b>Emojify</b> did not convert some alphabets into emojis
+      <li><b>Translate</b> did not translate from desired language
+    </ul>
+  </li>
+  <li><b>Known Issues</b>
+    <ul>
+      <li><b>Guess the Pokemon</b> will not send a <code>Correct Guess</code> message when difficulty is set, but will award XP
+      <li><b>Emotes</b> are sometimes repeating
+      <li><b>8ball</b> replies are not randomized, we are actively working on making it better
+      <li><b>Beta Program</b> may not send the Help Index
+    </ul>
+  </li>
+</ul>
+
 # Patch : 2.1
 March 29, 2022
 
