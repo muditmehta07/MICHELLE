@@ -33,7 +33,7 @@ April 12, 2022
   </li>
   <li><b>Commands</b>
     <ul>
-      <li><b>kick</b> : Kick the mentioned user from the cureent server
+      <li><b>kick</b> : Kick the mentioned user from the current server
       <li><b>ban</b> : Ban the mentioned user from the current server
     </ul>
   </li>
