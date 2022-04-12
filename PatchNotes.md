@@ -22,6 +22,19 @@ April 12, 2022
   <li><b>Beta Features</b>
     <ul>
       <li><b>Command : </b><code>autorole</code> : Auto-role is the default role for a server. When the autorole has been set, this role will be assigned to new members that join the server. The command can be used again to change the current set auto-role.
+      <li><b>Command : </b><code>massban</code> : Ban multiple people from the server at once.
+    </ul>
+  </li>
+  <li><b>Moderation</b>
+    <ul>
+      <li><b>Moderation has been one of the most important things missing from Michelle.</b> We are happy to inform you that we are working on Moderation commands now and will add new ones every patch. A Moderation Section has been added to the <code>Help Index</code>.
+    </ul>
+  </li>
+  </li>
+  <li><b>Commands</b>
+    <ul>
+      <li><b>kick</b> : Kick the mentioned user from the cureent server
+      <li><b>ban</b> : Ban the mentioned user from the current server
     </ul>
   </li>
   <li><b>Improvements</b>
