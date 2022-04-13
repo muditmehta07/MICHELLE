@@ -23,6 +23,7 @@ April 12, 2022
     <ul>
       <li><b>Command : </b><code>autorole</code> : Auto-role is the default role for a server. When the autorole has been set, this role will be assigned to new members that join the server. The command can be used again to change the current set auto-role.
       <li><b>Command : </b><code>massban</code> : Ban multiple people from the server at once.
+     <li><b>Command : </b><code>reaction edit</code> : Edit the description of the <code>Recation Role Message</code>
     </ul>
   </li>
   <li><b>Moderation</b>
