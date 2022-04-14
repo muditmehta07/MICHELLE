@@ -11,7 +11,7 @@
 > Michelle is now a Verified Discord bot!
 
 # Patch : 2.2
-April 12, 2022
+April 14, 2022
 
 <ul>
   <li><b>Beta Program</b>
@@ -21,9 +21,9 @@ April 12, 2022
   </li>
   <li><b>Beta Features</b>
     <ul>
-      <li><b>Command : </b><code>autorole</code> : Auto-role is the default role for a server. When the autorole has been set, this role will be assigned to new members that join the server. The command can be used again to change the current set auto-role.
-      <li><b>Command : </b><code>massban</code> : Ban multiple people from the server at once.
-     <li><b>Command : </b><code>reaction edit</code> : Edit the description of the <b>Reaction Role Message</b>
+     <li><b>Command : </b><code>automod</code> : Detects inappropriate language being used and warns the user. You can also add custom blacklisted words [Admin Only]
+     <li><b>Command : </b><code>reaction edit</code> : Edit the description of the <b>Reaction Role Message [Admin Only]
+     <li><b>Command : </b><code>warn</code> : Warn a user [Admin Only]
     </ul>
   </li>
   <li><b>Moderation</b>
@@ -34,8 +34,10 @@ April 12, 2022
   </li>
   <li><b>Commands</b>
     <ul>
-      <li><code>kick</code> : Kick the mentioned user from the current server
-      <li><code>ban</code> : Ban the mentioned user from the current server
+      <li><code>kick</code> : Kick the mentioned user from the current server [Admin Only]
+      <li><code>ban</code> : Ban the mentioned user from the current server [Admin Only]
+      <li><b>Command : </b><code>massban</code> : Ban multiple people from the server at once [Admin Only]
+      <li><b>Command : </b><code>autorole</code> : Auto-role is the default role for a server. When the autorole has been set, this role will be assigned to new members that join the server. The command can be used again to change the current set auto-role [Admin Only]
     </ul>
   </li>
   <li><b>Improvements</b>
