@@ -36,8 +36,8 @@ April 14, 2022
     <ul>
       <li><code>kick</code> : Kick the mentioned user from the current server [Admin Only]
       <li><code>ban</code> : Ban the mentioned user from the current server [Admin Only]
-      <li><b>Command : </b><code>massban</code> : Ban multiple people from the server at once [Admin Only]
-      <li><b>Command : </b><code>autorole</code> : Auto-role is the default role for a server. When the autorole has been set, this role will be assigned to new members that join the server. The command can be used again to change the current set auto-role [Admin Only]
+      <li><code>massban</code> : Ban multiple people from the server at once [Admin Only]
+      <li><code>autorole</code> : Auto-role is the default role for a server. When the autorole has been set, this role will be assigned to new members that join the server. The command can be used again to change the current set auto-role [Admin Only]
     </ul>
   </li>
   <li><b>Improvements</b>
