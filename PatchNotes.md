@@ -22,7 +22,7 @@ April 14, 2022
   <li><b>Beta Features</b>
     <ul>
      <li><b>Command : </b><code>automod</code> : Detects inappropriate language being used and warns the user. You can also add custom blacklisted words [Admin Only]
-     <li><b>Command : </b><code>reaction edit</code> : Edit the description of the <b>Reaction Role Message [Admin Only]
+     <li><b>Command : </b><code>reaction edit</code> : Edit the description of the <b>Reaction Role Message</b> [Admin Only]
      <li><b>Command : </b><code>warn</code> : Warn a user [Admin Only]
     </ul>
   </li>
