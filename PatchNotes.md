@@ -13,7 +13,13 @@
 # Patch : 2.3
 May 1, 2022
 
-> Performace fixes
+<ul>
+  <li><b>Commands</b>
+    <ul>
+      <li><b>Command : </b><code>goodbye</code> : Sends a goodbye message when a user leaves the server [Admin Only]
+    </ul>
+  </li>
+</ul>
 
 # Patch : 2.2
 April 14, 2022
