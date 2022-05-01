@@ -23,7 +23,8 @@
 </ul>
 
 # Patch : 2.2
-April 14, 2022
+
+> April 14, 2022
 
 <ul>
   <li><b>Beta Program</b>
@@ -77,7 +78,8 @@ April 14, 2022
 </ul>
 
 # Patch : 2.1
-March 29, 2022
+
+> March 29, 2022
 
 <ul>
   <li><b>Improvements</b>
@@ -96,7 +98,8 @@ March 29, 2022
 </ul>
 
 # Patch : 2.0
-March 22, 2022
+
+> March 22, 2022
 
 <ul>
   <li><b>Improvements</b>
