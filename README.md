@@ -79,8 +79,10 @@ A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 </li>
 </ul>
 
-# Contact
+# Account Bans
 
-> **Note** : In case of account ban, request for unban [here](https://forms.gle/eHmSGmThAezskCTn9)
+If you are experiencing account ban, you may fill the following form requesting an unban, please enter correct details [here](https://forms.gle/eHmSGmThAezskCTn9)
+
+# Contact
 
 __**Email**__ : michelle.discordbot@gmail.com
