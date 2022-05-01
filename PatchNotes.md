@@ -11,7 +11,8 @@
 > Michelle is now a Verified Discord bot!
 
 # Patch : 2.3
-May 1, 2022
+
+> May 1, 2022
 
 <ul>
   <li><b>Commands</b>
