@@ -13,7 +13,7 @@
 # Patch : 2.3
 May 1, 2022
 
-<li><b>Performace fixes.</b>
+> Performace fixes
 
 # Patch : 2.2
 April 14, 2022
