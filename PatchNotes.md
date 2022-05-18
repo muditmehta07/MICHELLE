@@ -19,6 +19,7 @@
   <li><b>Delete My Data</b>
     <ul>
       <li>Users can now delete all their data stored in Michelle. This could previously done by contacting us. Now, the command <code>deletemydata</code> can be used to do it instantly.
+    </ul>
   </li>
   <li><b>Passive Mode</b>
     <ul>
