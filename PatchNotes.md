@@ -23,7 +23,7 @@
   </li>
   <li><b>Passive Mode</b>
     <ul>
-      <li>When enabled, Michelle will no longer create any new data related to the user, nor will it respond to the commands used by the user. (Ghosted by a bot lol)
+      <li>When enabled, Michelle will no longer create any new data related to the user or read your <b>Message.Content</b> data, nor will it respond to the commands used by the user. (Ghosted by a bot lol). Passive Mode can be enabled by the command <code>passive</code>. Since Michelle will no longer read your messages, you can not disable Passive Mode yourself and must contact us through <b>Email</b> or <b>Support Server</b> so we can turn it off for you.
     </ul>
   </li>
 </ul>
