@@ -6,9 +6,26 @@
 [![](https://img.shields.io/badge/Top.gg-gray.svg?logo=discord)](https://top.gg/bot/840180379389263882 "https://top.gg/bot/840180379389263882")
 [![](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html "Documentation")
 
-**Current Patch** : `2.2`
+**Current Patch** : `2.4`
 
 > Michelle is now a Verified Discord bot!
+
+
+# Patch : 2.4
+
+> May 18, 2022
+
+<ul>
+  <li><b>Delete My Data</b>
+    <ul>
+      <li>Users can now delete all their data stored in Michelle. This could previously done by contacting us. Now, the command <code>deletemydata</code> can be used to do it instantly.
+  </li>
+  <li><b>Passive Mode</b>
+    <ul>
+      <li>When enabled, Michelle will no longer create any new data related to the user, nor will it respond to the commands used by the user. (Ghosted by a bot lol)
+    </ul>
+  </li>
+</ul>
 
 # Patch : 2.3
 
