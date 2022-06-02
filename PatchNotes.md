@@ -10,6 +10,11 @@
 
 > Michelle is now a Verified Discord bot!
 
+# Patch : 2.5
+
+> Coming soon!
+
+<b>New suggestion system.</b> Users will be able to send new ideas which will be displayed on an <b>Ideas</b> page (accessed by an <code>=ideas</code> command). Users will also be able to <b>upvote</b> ideas. When the ideas become popular and have sufficient demand, we will implement them to improve <b>Michelle</b>.
 
 # Patch : 2.4
 
