@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Top.gg-gray.svg?logo=discord)](https://top.gg/bot/840180379389263882 "https://top.gg/bot/840180379389263882")
 [![](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html "Documentation")
 
-**Current Patch** : `2.4`
+**Current Patch** : `2.4.5`
 
 > Michelle is now a Verified Discord bot!
 
