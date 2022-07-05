@@ -16,6 +16,12 @@
 
 <b>New suggestion system.</b> Users will be able to send new ideas which will be displayed on an <b>Ideas</b> page (accessed by an <code>=ideas</code> command). Users will also be able to <b>upvote</b> ideas. When the ideas become popular and have sufficient demand, we will implement them to improve <b>Michelle</b>.
 
+# Patch : 2.4.5
+
+> July 5, 2022
+
+<b>Limited Shop : </b>The shop has been the messiest place for the past year, stacked with Spells, Weapons and other items. We have now made the shop limited. The items in the shop will only display one item from each category, these items will update automatically.
+
 # Patch : 2.4
 
 > May 18, 2022
