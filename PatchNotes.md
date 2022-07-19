@@ -18,7 +18,7 @@
 <ul>
   <li><b>Counting System</b>
     <ul>
-      <li>Users can now set a channel as a counting channel and count numbers (How to play and Rules in application). Depending upon the progress, users will also be awarded with XP.
+      <li>Users can now set a channel as a counting channel and count numbers <code>(How To Play and Rules in Application)</code>. Depending upon the progress, users will also be awarded with XP.
     </ul>
   </li>
 </ul>
