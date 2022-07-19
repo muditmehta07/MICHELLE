@@ -12,9 +12,16 @@
 
 # Patch : 2.5
 
-> Coming soon!
 
-<b>New suggestion system.</b> Users will be able to send new ideas which will be displayed on an <b>Ideas</b> page (accessed by an <code>=ideas</code> command). Users will also be able to <b>upvote</b> ideas. When the ideas become popular and have sufficient demand, we will implement them to improve <b>Michelle</b>.
+> July 20, 2022
+
+<ul>
+  <li><b>Counting System</b>
+    <ul>
+      <li>Users can now set a channel as a counting channel and count numbers (How to play and Rules in application). Depending upon the progress, users will also be awarded with XP.
+    </ul>
+  </li>
+</ul>
 
 # Patch : 2.4.5
 
