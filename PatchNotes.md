@@ -27,7 +27,7 @@
 
 > July 5, 2022
 
-<b>Limited Shop : </b>The shop has been the messiest place for the past year, stacked with Spells, Weapons and other items. We have now made the shop limited. The items in the shop will only display one item from each category, these items will update automatically.
+<b>Limited Shop : </b>The shop has been the messiest place for the past year, stacked with Spells, Weapons and other items. We have now made the shop limited. The shop will only display one item from each category, these items will change and update according to their respective timers.
 
 # Patch : 2.4
 
