@@ -12,9 +12,8 @@
 
 A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 
-1. Official Website : [Visit](https://www.michelle-bot.co)
-2. Invite Michelle : [Invite](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
-3. Michelle's Community Server : [Join](https://discord.gg/EfHrMURtnA)
+1. Invite Michelle : [Invite](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
+2. Michelle's Community Server : [Join](https://discord.gg/EfHrMURtnA)
 
 # Contents
 
