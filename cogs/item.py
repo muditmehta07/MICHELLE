@@ -1199,12 +1199,6 @@ class ItemCog(commands.Cog):
                 else:
                     await ctx.send("**Whoops. Looks like you don't own a chest with that ID**")
 
-    '''    
-    @chest.command()
-    async def gift(self, ctx, chest_id : str = None):
-        pass
-    '''
-
 
 async def setup(bot):
     await bot.add_cog(ItemCog(bot))
