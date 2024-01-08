@@ -41,6 +41,7 @@ Invite Link : [Click here](https://discord.com/oauth2/authorize?client_id=840180
 </li>
 <li><b>Fun</b>
 <ul>
+  <li><strong>Guess</strong> :  Guess the Pokemon game</li>
   <li><strong>Memes</strong> : Stay entertained with the latest memes</li>
   <li><strong>Kill</strong> : Kill users and steal their xp. Better the weapon, higher the xp</li>
   <li><strong>Showerthoughts</strong> : Read mind blowing and crazy shower thoughts</li>
