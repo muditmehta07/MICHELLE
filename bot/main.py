@@ -17,8 +17,6 @@ import datetime
 from discord.ext.commands.context import Context
 import asyncio
 
-os.chdir(r'/mnt/d/iCloudDrive/Mudit/Coding/Python/Bots/michelle/')
-
 def get_the_prefix(client, message):
     with open("./local/prefix.json", "r") as f:
         L = json.load(f)
