@@ -12,7 +12,7 @@
 
 A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 
-Bot Invite Link : [Invite](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
+Invite Link : [Click here](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 
 # Contents
 
