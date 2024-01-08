@@ -178,11 +178,6 @@
     <td>=highfive @(user-mention)
   </tr>
   <tr>
-    <td>Kiss
-    <td>Kiss a user
-    <td>=kiss @(user-mention)
-  </tr>
-  <tr>
     <td>Slap
     <td>Slap a user
     <td>=slap @(user-mention)
