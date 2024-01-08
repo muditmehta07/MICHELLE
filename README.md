@@ -19,9 +19,8 @@ A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 
 1. [List of Commands](https://github.com/MuditMehta07/Michelle/blob/main/ListOfCommands.md)
 2. [Patch Notes](https://github.com/MuditMehta07/Michelle/blob/main/PatchNotes.md)
-3. [Staff & Team](https://github.com/MuditMehta07/Michelle/blob/main/Staff.md)
-4. [Terms Of Service](https://github.com/MuditMehta07/Michelle/blob/main/TermsOfService.md)
-5. [Privacy Policy](https://github.com/MuditMehta07/Michelle/blob/main/PrivacyPolicy.md)
+3. [Terms Of Service](https://github.com/MuditMehta07/Michelle/blob/main/TermsOfService.md)
+4. [Privacy Policy](https://github.com/MuditMehta07/Michelle/blob/main/PrivacyPolicy.md)
 
 # Features
 
