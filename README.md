@@ -6,14 +6,13 @@
 [![](https://img.shields.io/badge/Top.gg-gray.svg?logo=discord)](https://top.gg/bot/840180379389263882 "https://top.gg/bot/840180379389263882")
 [![](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html "Documentation")
 
-**Status** : `Offline`
+**Status** : `Archived` (2020 - 2022)
 
 > Michelle is now a Verified Discord bot!
 
 A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 
-1. Invite Michelle : [Invite](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
-2. Michelle's Community Server : [Join](https://discord.gg/EfHrMURtnA)
+Invite : [Invite](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 
 # Contents
 
@@ -79,7 +78,3 @@ A Multipurpose bot with a Leveling System, Economy, Fun commands and more
 # Account Bans
 
 If you are experiencing account ban, you may fill the following form requesting an unban, please enter correct details [here](https://forms.gle/eHmSGmThAezskCTn9)
-
-# Contact
-
-__**Email**__ : michelle.discordbot@gmail.com
