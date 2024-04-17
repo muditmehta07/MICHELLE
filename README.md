@@ -75,7 +75,3 @@ Invite Link : [Click here](https://discord.com/oauth2/authorize?client_id=840180
 </ul>
 </li>
 </ul>
-
-# Account Bans
-
-If you are experiencing account ban, you may fill the following form requesting an unban, please enter correct details [here](https://forms.gle/eHmSGmThAezskCTn9)
