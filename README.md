@@ -3,9 +3,9 @@
 [![](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html "Documentation")
 [![](https://img.shields.io/discord/735922425103122533.svg?logo=discord&colorB=7289DA&label=Bot)](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands "Bot Invite")
 
-**Status** : `Archived`
-
 > Michelle is now a Verified Discord bot!
+
+**Status** : `Archived`
 
 **Website** : [Click here](https://www.michelle-bot.co.in)
 
