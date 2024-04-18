@@ -76,4 +76,8 @@ Invite Link : [Click here](https://discord.com/oauth2/authorize?client_id=840180
   <li><strong>Deletemydata</strong> : You can delete your data from MICHELLE and choose to opt-out so that MICHELLE no longer collects any of your personal data to adhere to Discord's terms of service.</li>
 </ul>
 </li>
+<li><b>And Much Much More</b>
+<ul>
+  <li><strong>THE END</strong> : I am not going to list every single command on this README am I? NO WAY!</li>
 </ul>
+
