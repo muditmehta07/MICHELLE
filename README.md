@@ -25,53 +25,55 @@ Invite Link : [Click here](https://discord.com/oauth2/authorize?client_id=840180
 <ul>
 <li><b>General</b>
 <ul>
-  <li><strong>Welcome</strong> : Say hello to new server members</li>
-  <li><strong>Confessions</strong> : Anonymously express yourself in a server</li>
-  <li><strong>Reaction Roles</strong> : Give server members freedom to choose their roles</li>
-  <li><strong>Pings</strong> : Create custom responses for your sent texts</li>
-  <li><strong>Embed</strong> : Make your texts presentable and beautiful</li>
+  <li><strong>Welcome</strong> : Automated welcome messages to new server members in set welcome channel.</li>
+  <li><strong>Confessions</strong> : Server members can anonymously express themselves in a set confession channel.</li>
+  <li><strong>Reaction Roles</strong> : Server members can assign roles to themselves using a reaction role menu.</li>
+  <li><strong>Pings</strong> : Users can create custom responses and commands to get from the bot.</li>
+  <li><strong>Embed</strong> : Embedding texts, images and links in an organized manner.</li>
 </ul>
 </li>
-<li><b>Leveling</b>
+<li><b>Level System</b>
 <ul>
-  <li><strong>Level Card</strong> : View your level and xp</li>
-  <li><strong>Top 5</strong> : View the most active 5 users on the server</li>
-  <li><strong>Leaderboard</strong> : View the server leaderboard</li>
+  <li><strong>Level Card</strong> : View you level, experience and economy.</li>
+  <li><strong>Top 5 Leaderboard</strong> : View the most popular members of your server based on usage and economy.</li>
+  <li><strong>Top-N Leaderboard</strong> : View the leaderboard of the entire server based on usage, economy and level.</li>
 </ul>
 </li>
 <li><b>Fun</b>
 <ul>
-  <li><strong>Guess</strong> :  Guess the Pokemon game</li>
-  <li><strong>Memes</strong> : Stay entertained with the latest memes</li>
-  <li><strong>Kill</strong> : Kill users and steal their xp. Better the weapon, higher the xp</li>
-  <li><strong>Showerthoughts</strong> : Read mind blowing and crazy shower thoughts</li>
-  <li><strong>Dadjoke</strong> :  Get a lame dad joke</li>
-  <li><strong>Hack</strong> : Hack a user. 100% real</li>
+  <li><strong>Guess the Pokemon</strong> :  Select your difficulty and guess the Pokemon for XP.</li>
+  <li><strong>Memes</strong> : Stay entertained with the trending memes from Reddit, filter them based on preferences (included with automeme functionality).</li>
+  <li><strong>Kill</strong> : Purchase your favourite weapon and kill users for their XP.</li>
+  <li><strong>Showerthoughts</strong> : Read mind blowing and crazy shower thoughts straight from Reddit.</li>
+  <li><strong>Dadjoke</strong> :  Don't have a dad? Could still get some dad jokes from Reddit!</li>
+  <li><strong>Hack</strong> : 100% real way to hack your friends and get all their personal information (not a Rickroll).</li>
 </ul>
 </li>
 <li><b>Store</b>
 <ul>
-  <li><strong>Daily</strong> : Get free xp every 24 hours</li>
-  <li><strong>Weapons</strong> : Choose your weapon and kill people (brutal)</li>
-  <li><strong>Spells</strong> : Choose your spell and enjoy its perks</li>
-  <li><strong>Jutsu</strong> : Hide or Transform yourself on the leaderboard</li>
+  <li><strong>Daily Rewards</strong> : Get daily rewards every 24 hours.</li>
+  <li><strong>Weapons</strong> : Purchase a weapon and kill people (extremely brutal, do not try it at home!)</li>
+  <li><strong>Spells</strong> : Brew your spell and enjoy the perks of multiplying your XP.</li>
+  <li><strong>Jutsu</strong> : Hide or transform yourself to sneak yourself off of the leaderboard.</li>
 </ul>
 </li>
 <li><b>Emotes & Casual</b>
 <ul>
   <li><strong>Emotes</strong> : Slap, Hug, Pat, etc. a server member</li>
-  <li><strong>Wikipedia</strong> : Access the Wikipedia directly from Discord</li>
-  <li><strong>YouTube</strong> : Access YouTube directly from Discord</li>
-  <li><strong>Translate</strong> : Translate anything in a blink of an eye</li>
+  <li><strong>Wikipedia</strong> : SEarch Wikipedia articles without leaving Discord.</li>
+  <li><strong>YouTube</strong> : Access YouTube videos from Discord itself.</li>
+  <li><strong>Translate</strong> : Google Translate commands to talk to your jewish friend (no need to microwave them now!)</li>
 </ul>
 </li>
 <li><b>And Much More</b>
 <ul>
   <li><strong>Custom Prefix</strong> : Change your server's command prefix</li>
-  <li><strong>Theme</strong> : Change your border, level card and leaderboard color</li>
-  <li><strong>Profile</strong> : View your Michelle profile</li>
-  <li><strong>Server</strong> : View the server's Michelle profile</li>
-  <li><strong>Feedback</strong> : Report a problem or give us a suggestion to improve Michelle</li>
+  <li><strong>Themes</strong> : Change your border, level card and leaderboard color</li>
+  <li><strong>Profile</strong> : View your MICHELLE profile.</li>
+  <li><strong>Server Profiles</strong> : View the server's MICHELLE profile.</li>
+  <li><strong>Feedback System</strong> : Report a problem or give us a suggestion to improve MICHELLE.</li>
+  <li><strong>Automod System</strong> : Automated moderator that warns users based on inappropriate activity on servers and removes/bans them on set N strikes.</li>
+  <li><strong>Deletemydata</strong> : You can delete your data from MICHELLE and choose to opt-out so that MICHELLE no longer collects any of your personal data to adhere to Discord's terms of service.</li>
 </ul>
 </li>
 </ul>
