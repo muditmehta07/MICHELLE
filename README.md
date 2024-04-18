@@ -7,8 +7,9 @@
 
 > Michelle is now a Verified Discord bot!
 
-Website : [Click here](https://www.michelle-bot.co.in)
-Invite Link : [Click here](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
+**Website** : [Click here](https://www.michelle-bot.co.in)
+
+**Invite Link** : [Click here](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 
 # Contents
 
