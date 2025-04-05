@@ -1,8 +1,5 @@
 # Patch Notes
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Michelle" src="https://i.imgur.com/TntCpG2.png">
-
-
 **Current Patch** : `2.5`
 
 > Michelle is now a Verified Discord bot!
