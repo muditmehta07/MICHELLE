@@ -1,8 +1,8 @@
 # Michelle — Your All-in-One Discord Companion
 
 ## ⚠ Note
-> This application has been discontinued and no longer active.
-> Thank you to everyone that used this pet project!
+> This application has been discontinued since 2023 and is no longer active.
+> Thank you to everyone for using this pet project!
 > Cheers 🥂
 
 ## ℹ Info
