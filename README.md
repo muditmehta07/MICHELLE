@@ -5,8 +5,6 @@
 > Thank you to everyone that used this pet project!
 > Cheers 🥂
 
----
-
 ## ℹ Info
 > 💤 **Status**: `Archived`
 > ✅ **Michelle is now a Verified Discord Application**  
