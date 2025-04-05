@@ -3,12 +3,6 @@
 **Current Patch:** `2.5`  
 > Michelle is now a **Verified Discord Bot**!
 
-[![Discord](https://img.shields.io/discord/735922425103122533.svg?logo=discord&colorB=7289DA&label=Bot)](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
-[![Top.gg](https://img.shields.io/badge/Top.gg-gray.svg?logo=discord)](https://top.gg/bot/840180379389263882)
-[![discord.py](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html)
-
----
-
 ## 📦 Patch 2.5 — July 20, 2022
 
 ### ➕ New Features
@@ -17,8 +11,6 @@
   - Earn XP based on progress.  
   - Detailed rules and how-to-play available in-app.
 
----
-
 ## 🛍️ Patch 2.4.5 — July 5, 2022
 
 ### 🔧 Improvements
@@ -26,8 +18,6 @@
   - The shop now rotates one item per category at a time.  
   - Items update based on category-specific timers.  
   - Simplified and cleaner experience.
-
----
 
 ## 🔐 Patch 2.4 — May 18, 2022
 
@@ -40,14 +30,10 @@
   - Enable via `/passive`.  
   - To disable, contact support (Michelle won’t read your messages anymore).
 
----
-
 ## 🧾 Patch 2.3 — May 1, 2022
 
 ### ➕ New Command
 - `/goodbye` — Sends a goodbye message when a member leaves. *(Admin only)*
-
----
 
 ## 🧪 Patch 2.2 — April 14, 2022
 
@@ -78,8 +64,6 @@
 - `/8ball` replies not randomized.  
 - Beta Help Index may not load properly.
 
----
-
 ## 🧹 Patch 2.1 — March 29, 2022
 
 ### 🎨 Improvements
@@ -88,8 +72,6 @@
 
 ### 🐛 Bug Fixes
 - `/chest help` command now provides proper usage instructions.
-
----
 
 ## 💼 Patch 2.0 — March 22, 2022
 
@@ -103,15 +85,11 @@
 ### 🐞 Fixes
 - Daily rewards not awarding XP — Fixed.
 
----
-
 ## ⚖️ Patch 1.9 — March 17, 2022
 
 - **Feedback System Abuse** — Users who spam feedback are now blocked from using the bot.  
 - **XP Changes** — XP is no longer awarded for normal messages.  
 - **New Command:** `/guess` — Pokémon guessing game.
-
----
 
 ## 🚫 Patch 1.8 — February 26, 2022
 
@@ -119,8 +97,6 @@
 - Giftboxes now give `100K` XP (down from `1M`).  
 - Website now redirects to [michelle-bot.co](https://www.michelle-bot.co).  
 - **New Command:** `/emojify`
-
----
 
 ## 💬 Patch 1.7 — February 14, 2022
 
@@ -132,14 +108,10 @@
 - `/top` — Top 10 leaderboard.  
 - `/leaderboard` — View full leaderboard.
 
----
-
 ## 🥷 Patch 1.6 — January 22, 2022
 
 ### ➕ New Command
 - `/transform` — Change leaderboard name using Transformation Jutsu.
-
----
 
 ## ✋ Patch 1.5 — January 11, 2022
 
@@ -152,8 +124,6 @@
 
 ### 🐞 Fixes
 - Leaderboard now correctly displays ranks 1–10.
-
----
 
 ## 🐱 Patch 1.4 — January 9, 2022
 
@@ -170,21 +140,15 @@
 ### 🐞 Fixes
 - `/leaderboard` previously limited to top 5 — now shows top 10.
 
----
-
 ## 🛠️ Patch 1.2 — January 6, 2022
 
 - Store redesigned for better user experience.  
 - Store command bug fixed.
 
----
-
 ## 🔮 Patch 1.0 — December 12, 2021
 
 - Sell Spells, Jutsu, and Weapons.  
 - Help command now has themed icon colors.
-
----
 
 ## ⚔️ Patch 0.9 – 0.5 (Legacy Overview)
 
