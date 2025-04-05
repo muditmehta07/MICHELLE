@@ -4,9 +4,12 @@
 [![Top.gg](https://img.shields.io/badge/Top.gg-gray.svg?logo=discord)](https://top.gg/bot/840180379389263882)
 [![discord.py](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html)
 
+> 💤 **Status**: `Archived`
 > ✅ **Michelle is now a Verified Discord Application**  
-> 💤 **Status**: `Archived`  
 > 🌐 [Website (Archived)](https://www.michelle-bot.co.in) • 🔗 [Invite Link](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
+
+## ⚠ Note
+This application has been discontinued and no longer active, thank you for everyone that used this pet project! Cheers 🥂
 
 ---
 
