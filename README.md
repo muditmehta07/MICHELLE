@@ -1,16 +1,15 @@
 # Michelle — Your All-in-One Discord Companion
 
 ## ⚠ Note
-> This application has been discontinued since 2023 and is no longer active.
-> Thank you to everyone for using this pet project!
-> Cheers 🥂
+- This application has been discontinued since 2023 and is no longer active.
+- Thank you to everyone for using this pet project!
+- Cheers 🥂
 
 ## ℹ Info
-> 💤 **Status**: `Archived`
-> ✅ **Michelle is now a Verified Discord Application**  
-> 🌐 [Website (Archived)](https://www.michelle-bot.co.in) • 🔗 [Invite Link](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
+- 💤 **Status**: `Archived`
+- ✅ **Michelle is now a Verified Discord Application**  
+- 🌐 [Website (Archived)](https://www.michelle-bot.co.in) • 🔗 [Invite Link](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 
----
 
 ## 📜 Table of Contents
 
@@ -19,7 +18,6 @@
 - [Privacy Policy](https://github.com/MuditMehta07/Michelle/blob/main/PrivacyPolicy.md)
 - [Features](#-features)
 
----
 
 ## ✨ Features
 
@@ -63,8 +61,6 @@
 - **Feedback System** – Report bugs or suggest features.
 - **AutoMod** – Warn, mute, or ban users based on strikes.
 - **Delete My Data** – Full data deletion & opt-out options.
-
----
 
 ## 🧾 Final Thoughts
 
