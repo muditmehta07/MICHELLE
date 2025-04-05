@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/discord.py-v1.7.3-blue.svg?logo=python)](https://discordpy.readthedocs.io/en/stable/api.html "Documentation")
 
 
+
 # Patch : 2.5
 
 
