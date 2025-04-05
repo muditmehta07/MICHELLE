@@ -1,4 +1,4 @@
-# 🌸 Michelle — Your All-in-One Discord Companion
+# Michelle — Your All-in-One Discord Companion
 
 [![Discord](https://img.shields.io/discord/735922425103122533.svg?logo=discord&colorB=7289DA&label=Bot)](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 [![Top.gg](https://img.shields.io/badge/Top.gg-gray.svg?logo=discord)](https://top.gg/bot/840180379389263882)
