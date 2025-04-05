@@ -9,7 +9,7 @@
 > 🌐 [Website (Archived)](https://www.michelle-bot.co.in) • 🔗 [Invite Link](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
 
 ## ⚠ Note
-This application has been discontinued and no longer active, thank you for everyone that used this pet project! Cheers 🥂
+> This application has been discontinued and no longer active, thank you for everyone that used this pet project! Cheers 🥂
 
 ---
 
