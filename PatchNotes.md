@@ -186,7 +186,7 @@
 
 ---
 
-## ⚔️ Patch 0.9 – 0.5 Highlights
+## ⚔️ Patch 0.9 – 0.5 (Legacy Overview)
 
 ### 🌈 Patch 0.9
 - New: Colored icons for Red Theme  
