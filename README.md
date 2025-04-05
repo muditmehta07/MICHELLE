@@ -68,11 +68,3 @@
 
 > Michelle is packed with features and a personality of her own.  
 > Why list them all? Just invite her and explore!
-
----
-
-## 💌 Invite Michelle Now
-
-- 🔗 [Invite to Your Server](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
-- 🌐 [Official Website](https://www.michelle-bot.co.in)
-- 📃 [Documentation & Legal](#-table-of-contents)
