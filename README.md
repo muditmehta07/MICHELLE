@@ -22,24 +22,24 @@
 ## ✨ Features
 
 ### ⚙️ General
-- 💬 **Welcome Messages** – Greet new members in a custom channel.
-- 🕵️ **Anonymous Confessions** – Let users express anonymously.
-- 🎭 **Reaction Roles** – Self-assignable roles using emojis.
-- 📣 **Custom Pings** – Personalized bot responses.
-- 🖼️ **Embeds** – Stylish embedded messages and content.
+- **Welcome Messages** – Greet new members in a custom channel.
+- **Anonymous Confessions** – Let users express anonymously.
+- **Reaction Roles** – Self-assignable roles using emojis.
+- **Custom Pings** – Personalized bot responses.
+- **Embeds** – Stylish embedded messages and content.
 
 ### 🧠 Level System
-- 🧾 **Level Card** – Display XP, level, and economy stats.
-- 🏅 **Top 5 Leaderboard** – Showcase your top users.
-- 🏆 **Global Leaderboard** – Full server rankings.
+- **Level Card** – Display XP, level, and economy stats.
+- **Top 5 Leaderboard** – Showcase your top users.
+- **Global Leaderboard** – Full server rankings.
 
-### 🎉 Fun & Games
-- 🔍 **Guess the Pokémon** – Pick a difficulty and earn XP.
-- 😂 **Memes** – Trending Reddit memes with filters and AutoMeme.
-- 🔫 **Kill** – Use weapons to “eliminate” users (for XP!).
-- 🧠 **Showerthoughts** – Random mind-blowing thoughts.
-- 👨‍🦱 **Dad Jokes** – Get your daily dose of cringy humor.
-- 💻 **Hack** – "Totally real" hacking simulation (not a Rickroll, promise).
+### 🎮 Fun & Games
+- **Guess the Pokémon** – Pick a difficulty and earn XP.
+- **Memes** – Trending Reddit memes with filters and AutoMeme.
+- **Kill** – Use weapons to “eliminate” users (for XP!).
+- **Showerthoughts** – Random mind-blowing thoughts.
+- **Dad Jokes** – Get your daily dose of cringy humor.
+- **Hack** – "Totally real" hacking simulation (not a Rickroll, promise).
 
 ### 🛍️ Store & Economy
 - **Daily Rewards** – Claim your XP every 24 hours.
