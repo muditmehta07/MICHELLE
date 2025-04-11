@@ -152,22 +152,22 @@
 
 ## ⚔️ Patch 0.9 – 0.5 (Legacy Overview)
 
-### 🌈 Patch 0.9
+### Patch 0.9
 - New: Colored icons for Red Theme  
 - Merged Dark/Light Themes into one unified theme
 
-### ⚔️ Patch 0.8
+### Patch 0.8
 - Added Weapons (usable with `/kill`)  
 - Fixed profile info bugs
 
-### 🎨 Patch 0.7
+### Patch 0.7
 - Help command icons updated to match blue theme  
 - Fixed multiple help messages bug
 
-### ⚙️ Patch 0.6
+### Patch 0.6
 - Added `/settings` to toggle features  
 - Reaction roles now listed instead of embedded
 
-### 🎁 Patch 0.5
+### Patch 0.5
 - Introduced Daily XP rewards  
 - Fixed bug where giftbox was not sent on invite
