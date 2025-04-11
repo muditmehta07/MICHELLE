@@ -5,7 +5,7 @@
 
 ## 📦 Patch 2.5 — July 20, 2022
 
-### ➕ New Features
+### New Features
 - **Counting System**  
   - Set a channel to start a community counting game.  
   - Earn XP based on progress.  
@@ -13,7 +13,7 @@
 
 ## 🛍️ Patch 2.4.5 — July 5, 2022
 
-### 🔧 Improvements
+### Improvements
 - **Limited Shop Overhaul**  
   - The shop now rotates one item per category at a time.  
   - Items update based on category-specific timers.  
@@ -21,7 +21,7 @@
 
 ## 🔐 Patch 2.4 — May 18, 2022
 
-### ✨ New Features
+### New Features
 - **Delete My Data**  
   - Instantly remove all stored data using the `/deletemydata` command.
 
@@ -32,33 +32,33 @@
 
 ## 🧾 Patch 2.3 — May 1, 2022
 
-### ➕ New Command
+### New Command
 - `/goodbye` — Sends a goodbye message when a member leaves. *(Admin only)*
 
 ## 🧪 Patch 2.2 — April 14, 2022
 
-### 🌟 New: Beta Program
+### New: Beta Program
 - Enable Beta in Settings to unlock early-access commands.
 - Disable at any time.
 
-### 🧪 Beta Features
+### Beta Features
 - `/automod` — Warns users using inappropriate language. Custom blacklist available. *(Admin only)*  
 - `/reaction edit` — Edit reaction role messages. *(Admin only)*  
 - `/warn` — Warn a user. *(Admin only)*  
 
-### 🛡️ Moderation Commands
+### Moderation Commands
 - `/kick`, `/ban`, `/massban` — Basic moderation. *(Admin only)*  
 - `/autorole` — Automatically assign roles to new users.
 
-### 🎨 UI & UX Improvements
+### UI & UX Improvements
 - Redesigned: Reaction Roles, Welcome Messages, and Confessions.
 
-### 🐞 Bug Fixes
+### Bug Fixes
 - XP not awarded in "Guess the Pokémon" — Fixed.  
 - Emojify issues — Fixed.  
 - Translate command inconsistencies — Fixed.
 
-### ⚠️ Known Issues
+### Known Issues
 - No confirmation for correct Pokémon guesses (still awards XP).  
 - Emotes occasionally repeat.  
 - `/8ball` replies not randomized.  
@@ -66,23 +66,23 @@
 
 ## 🧹 Patch 2.1 — March 29, 2022
 
-### 🎨 Improvements
+### Improvements
 - Help section recategorized.  
 - `/chest`, `/store`, `/inventory` — Visual/UI overhaul with emojis and cleaner presentation.
 
-### 🐛 Bug Fixes
+### Bug Fixes
 - `/chest help` command now provides proper usage instructions.
 
 ## 💼 Patch 2.0 — March 22, 2022
 
-### 🔧 Improvements
+### Improvements
 - Reorganized Help categories.  
 - Characters now quote lines from anime in `/beg`.
 
-### ➕ New Command
+### New Command
 - `/chest` — Store and transfer XP between servers.
 
-### 🐞 Fixes
+### Fixes
 - Daily rewards not awarding XP — Fixed.
 
 ## ⚖️ Patch 1.9 — March 17, 2022
@@ -100,44 +100,44 @@
 
 ## 💬 Patch 1.7 — February 14, 2022
 
-### ✨ Improvements
+### Improvements
 - Enhanced Casual section in Help.  
 - Help messages appear when commands are misused.
 
-### ➕ New Commands
+### New Commands
 - `/top` — Top 10 leaderboard.  
 - `/leaderboard` — View full leaderboard.
 
 ## 🥷 Patch 1.6 — January 22, 2022
 
-### ➕ New Command
+### New Command
 - `/transform` — Change leaderboard name using Transformation Jutsu.
 
 ## ✋ Patch 1.5 — January 11, 2022
 
-### 🎉 New Commands
+### New Commands
 - `/highfive`, `/punch`, `/pat`, `/dadjoke`, `/showerthoughts`
 
-### 🎨 UI Updates
+### UI Updates
 - "Image" section renamed to **Emotes**.  
 - Store moved to its own Help section.
 
-### 🐞 Fixes
+### Fixes
 - Leaderboard now correctly displays ranks 1–10.
 
 ## 🐱 Patch 1.4 — January 9, 2022
 
-### 🎉 New & Updated Commands
+### New & Updated Commands
 - **New:** `/dumbrate`, `/simprate`, `/hack`, `/kitty`, `/doggo`, `/aww`  
 - **Updated:** `/hug`, `/kiss`, `/slap` now send random GIFs  
 - **Updated:** `/meme`, `/reddit` — cleaner layout  
 - **Updated:** `/8ball` — improved replies  
 - **Updated:** `/michelle` now links to GitHub instead of Top.gg
 
-### 🎨 UI Changes
+### UI Changes
 - Removed: Invite giftboxes, themed icons in main Help menu.
 
-### 🐞 Fixes
+### Fixes
 - `/leaderboard` previously limited to top 5 — now shows top 10.
 
 ## 🛠️ Patch 1.2 — January 6, 2022
