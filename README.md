@@ -5,7 +5,7 @@
 - Thank you to everyone for using this pet project!
 - Cheers 🥂
 
-## ℹ Info
+## Info
 - **Status**: `Archived`
 - **Michelle is now a Verified Discord Application**  
 - [Website (Archived)](https://www.michelle-bot.co.in) • 🔗 [Invite Link](https://discord.com/oauth2/authorize?client_id=840180379389263882&permissions=4228906231&scope=bot+applications.commands)
@@ -62,7 +62,7 @@
 - **AutoMod** – Warn, mute, or ban users based on strikes.
 - **Delete My Data** – Full data deletion & opt-out options.
 
-## 🧾 Final Thoughts
+## Final Thoughts
 
 > Michelle is packed with features and a personality of her own.  
 > Why list them all? Just invite her and explore!
