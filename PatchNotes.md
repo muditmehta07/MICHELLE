@@ -1,4 +1,4 @@
-# 📝 Michelle Patch Notes
+# Michelle Patch Notes
 
 **Current Patch:** `2.5`  
 > Michelle is now a **Verified Discord Bot**!
