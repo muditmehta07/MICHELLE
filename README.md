@@ -61,8 +61,3 @@
 - **Feedback System** – Report bugs or suggest features.
 - **AutoMod** – Warn, mute, or ban users based on strikes.
 - **Delete My Data** – Full data deletion & opt-out options.
-
-## Final Thoughts
-
-> Michelle is packed with features and a personality of her own.  
-> Why list them all? Just invite her and explore!
